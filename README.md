@@ -1,22 +1,22 @@
-# Available .REPUBLICAN One-Word Domains (5,621,967)
+# Available .REPUBLICAN One-Word Domains (9,805)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C805%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C967%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C805%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .republican one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .republican one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,805-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,967 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,805 rows · **Live catalog:** 5,621,967 domains
+**Public extract:** 9,805 rows · **Live catalog:** 9,805 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/republican`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| gold.republican       | available | $43.98    | —             | 72             | 99     | 4      | namecheap                                   |
-| smart.republican      | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
-| one.republican        | premium   | $500      | $500          | 132            | 51     | 3      | name.com                                    |
-| easy.republican       | available | $5.99     | $46.99        | 128            | 68     | 4      | name.com                                    |
-| business.republican   | resell    | —         | —             | 100            | 53     | 8      | Dynadot Inc                                 |
-| abc.republican        | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
-| zero.republican       | available | $5.99     | $46.99        | 112            | 53     | 4      | name.com                                    |
-| alpha.republican      | resell    | —         | —             | 90             | 53     | 5      | Porkbun LLC                                 |
-| green.republican      | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
-| fast.republican       | available | $5.99     | $46.99        | 82             | 53     | 4      | name.com                                    |
-| simple.republican     | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| about.republican      | premium   | $500      | $500          | 94             | 38     | 5      | name.com                                    |
-| art.republican        | available | $43.98    | —             | 90             | 52     | 3      | namecheap                                   |
-| house.republican      | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
-| education.republican  | premium   | $260      | $260          | 82             | 36     | 9      | namecheap                                   |
-| true.republican       | available | $5.99     | $46.99        | 86             | 52     | 4      | name.com                                    |
-| club.republican       | resell    | —         | —             | 94             | 39     | 4      | Sav.com, LLC - 39                           |
-| aaron.republican      | premium   | $39       | $39           | 88             | 35     | 5      | namecheap                                   |
-| game.republican       | available | $5.99     | $46.99        | 120            | 50     | 4      | name.com                                    |
-| democratic.republican | resell    | —         | —             | 66             | 11     | 10     | Sav.com, LLC - 38                           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| gold.republican     | available | $43.98    | —             | 72             | 99     | 4      | namecheap                                   |
+| open.republican     | resell    | —         | —             | 106            | 60     | 4      | Dynadot Inc                                 |
+| one.republican      | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                    |
+| easy.republican     | available | $5.99     | $46.99        | 128            | 68     | 4      | name.com                                    |
+| smart.republican    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
+| abc.republican      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
+| zero.republican     | available | $5.99     | $46.99        | 112            | 53     | 4      | name.com                                    |
+| alpha.republican    | resell    | —         | —             | 90             | 54     | 5      | Porkbun LLC                                 |
+| green.republican    | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
+| fast.republican     | available | $5.99     | $46.99        | 82             | 53     | 4      | name.com                                    |
+| business.republican | resell    | —         | —             | 100            | 53     | 8      | Dynadot Inc                                 |
+| about.republican    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
+| art.republican      | available | $43.98    | —             | 90             | 52     | 3      | namecheap                                   |
+| simple.republican   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| aaron.republican    | premium   | $39       | $39           | 88             | 35     | 5      | namecheap                                   |
+| true.republican     | available | $5.99     | $46.99        | 86             | 52     | 4      | name.com                                    |
+| house.republican    | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
+| america.republican  | premium   | $123.75   | —             | 72             | 33     | 7      | name.com                                    |
+| game.republican     | available | $5.99     | $46.99        | 120            | 50     | 4      | name.com                                    |
+| club.republican     | resell    | —         | —             | 94             | 39     | 4      | Sav.com, LLC - 39                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,805-row public sample | 5,621,967 live domains                           |
+| 9,805-row public sample | 9,805 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
