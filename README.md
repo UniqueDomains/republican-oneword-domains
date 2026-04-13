@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .republican one-word domains from 
 
 **Public extract:** 9,805 rows · **Live catalog:** 9,805 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/republican`  
 **Best for:** founders, investors, studios
 
@@ -71,10 +71,10 @@ print(df.head())
 | smart.republican    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                |
 | abc.republican      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap                                   |
 | zero.republican     | available | $5.99     | $46.99        | 112            | 53     | 4      | name.com                                    |
-| alpha.republican    | resell    | —         | —             | 90             | 54     | 5      | Porkbun LLC                                 |
-| green.republican    | premium   | $39       | $39           | 108            | 45     | 5      | namecheap                                   |
-| fast.republican     | available | $5.99     | $46.99        | 82             | 53     | 4      | name.com                                    |
 | business.republican | resell    | —         | —             | 100            | 53     | 8      | Dynadot Inc                                 |
+| green.republican    | premium   | $39       | $39           | 108            | 44     | 5      | namecheap                                   |
+| fast.republican     | available | $5.99     | $46.99        | 82             | 53     | 4      | name.com                                    |
+| alpha.republican    | resell    | —         | —             | 90             | 53     | 5      | Porkbun LLC                                 |
 | about.republican    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
 | art.republican      | available | $43.98    | —             | 90             | 52     | 3      | namecheap                                   |
 | simple.republican   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
