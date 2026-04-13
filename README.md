@@ -73,13 +73,13 @@ print(df.head())
 | zero.republican     | available | $5.99     | $46.99        | 112            | 53     | 4      | name.com                                    |
 | business.republican | resell    | —         | —             | 100            | 53     | 8      | Dynadot Inc                                 |
 | green.republican    | premium   | $39       | $39           | 108            | 44     | 5      | namecheap                                   |
-| fast.republican     | available | $5.99     | $46.99        | 82             | 53     | 4      | name.com                                    |
+| art.republican      | available | $43.98    | —             | 90             | 52     | 3      | namecheap                                   |
 | alpha.republican    | resell    | —         | —             | 90             | 53     | 5      | Porkbun LLC                                 |
 | about.republican    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                    |
-| art.republican      | available | $43.98    | —             | 90             | 52     | 3      | namecheap                                   |
-| simple.republican   | resell    | —         | —             | 128            | 48     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
-| aaron.republican    | premium   | $39       | $39           | 88             | 35     | 5      | namecheap                                   |
 | true.republican     | available | $5.99     | $46.99        | 86             | 52     | 4      | name.com                                    |
+| simple.republican   | resell    | —         | —             | 128            | 49     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| aaron.republican    | premium   | $39       | $39           | 88             | 35     | 5      | namecheap                                   |
+| fast.republican     | available | $5.99     | $46.99        | 82             | 52     | 4      | name.com                                    |
 | house.republican    | resell    | —         | —             | 84             | 40     | 5      | GoDaddy.com, LLC                            |
 | america.republican  | premium   | $123.75   | —             | 72             | 33     | 7      | name.com                                    |
 | game.republican     | available | $5.99     | $46.99        | 120            | 50     | 4      | name.com                                    |
