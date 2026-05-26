@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .republican one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,785 domains · **Median ask:** $10.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/republican`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | aliens.republican       | available | $5.99     | —             | 56             | 35     | 6      | name.com  |
 | bills.republican        | premium   | $123.75   | —             | 54             | 19     | 5      | name.com  |
 | homes.republican        | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
-| Obamacare.republican    | premium   | $92.40    | $92.40        | 66             | 8      | 10     | namecheap |
+| Obamacare.republican    | premium   | $92.40    | $92.40        | 66             | 7      | 10     | namecheap |
 | tickets.republican      | available | $5.99     | —             | 64             | 34     | 7      | name.com  |
 | victories.republican    | premium   | $123.75   | —             | 58             | 5      | 9      | name.com  |
 | teams.republican        | available | $5.99     | —             | 62             | 32     | 5      | name.com  |
 | donkeys.republican      | premium   | $242      | $242          | 46             | 5      | 7      | namesilo  |
 | letsgo.republican       | available | $5.99     | —             | 57             | 31     | 7      | name.com  |
-| popup.republican        | available | $5.99     | —             | 84             | 29     | 6      | name.com  |
 | quotes.republican       | available | $5.99     | —             | 58             | 29     | 6      | name.com  |
+| popup.republican        | available | $5.99     | —             | 84             | 28     | 6      | name.com  |
 | gems.republican         | available | $5.99     | —             | 70             | 28     | 4      | name.com  |
 | gods.republican         | available | $5.99     | —             | 72             | 27     | 4      | name.com  |
 | trades.republican       | available | $5.99     | —             | 71             | 26     | 6      | name.com  |
 | traders.republican      | available | $5.99     | —             | 60             | 26     | 7      | name.com  |
-| destination.republican  | available | $5.99     | —             | 90             | 25     | 11     | name.com  |
+| destination.republican  | available | $5.99     | —             | 90             | 24     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
