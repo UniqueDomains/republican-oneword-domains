@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .republican one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,785 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,785 domains · **Median ask:** $10.42 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,785 domains · **Median ask:** $10.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/republican`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/republican`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .REPUBLICAN one-word d
 
 ### Files
 
-- `republican.csv` — public CSV extract (1,000 rows)
-- `republican.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `republican.csv`, public CSV extract (1,000 rows)
+- `republican.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| http.republican     | available | $5.99     | —             | 80             | 72     | 4      | name.com    |
-| open.republican     | resell    | $5.99     | —             | 106            | 59     | 4      | Dynadot Inc |
-| think.republican    | premium   | $3,750    | —             | 108            | 64     | 5      | name.com    |
-| life.republican     | available | $5.99     | —             | 84             | 51     | 4      | name.com    |
-| watson.republican   | premium   | $78.54    | $78.54        | 75             | 58     | 6      | namesilo    |
-| game.republican     | available | $5.99     | $46.99        | 120            | 50     | 4      | name.com    |
-| abc.republican      | premium   | $520      | $520          | 102            | 50     | 3      | namecheap   |
-| share.republican    | available | $5.99     | —             | 72             | 49     | 5      | name.com    |
-| red.republican      | premium   | $500      | —             | 80             | 43     | 3      | name.com    |
-| token.republican    | available | $5.99     | —             | 114            | 47     | 5      | name.com    |
-| mobile.republican   | premium   | $118.80   | $118.80       | 62             | 43     | 6      | namesilo    |
-| panda.republican    | available | $5.99     | —             | 88             | 47     | 5      | name.com    |
-| culture.republican  | premium   | $123.75   | —             | 98             | 40     | 7      | name.com    |
-| momentum.republican | available | $5.99     | —             | 74             | 47     | 8      | name.com    |
-| deal.republican     | premium   | $118.80   | $118.80       | 66             | 37     | 4      | namesilo    |
-| edge.republican     | available | $5.99     | $28.99        | 72             | 47     | 4      | namesilo    |
-| woman.republican    | premium   | $118.80   | $118.80       | 112            | 23     | 5      | namesilo    |
-| icon.republican     | available | $5.99     | —             | 89             | 46     | 4      | name.com    |
-| nevada.republican   | premium   | $500      | —             | 58             | 23     | 6      | name.com    |
-| wave.republican     | available | $5.99     | —             | 74             | 46     | 4      | name.com    |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| christmas.republican | available | $5.99     | $28.99        | high           | low    | 9      | namesilo    |
+| ago.republican       | available | $5.99     | $46.99        | medium         | low    | 3      | name.com    |
+| open.republican      | resell    | $5.99     | —             | high           | medium | 4      | Dynadot Inc |
+| abc.republican       | premium   | $520      | $520          | high           | medium | 3      | namecheap   |
+| ala.republican       | available | $5.99     | $28.99        | high           | low    | 3      | namesilo    |
+| red.republican       | premium   | $500      | —             | high           | medium | 3      | name.com    |
+| ale.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo    |
+| deal.republican      | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo    |
+| ash.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo    |
+| think.republican     | premium   | $3,750    | —             | high           | medium | 5      | name.com    |
+| beg.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo    |
+| woman.republican     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo    |
+| did.republican       | available | $5.99     | $28.99        | high           | low    | 3      | namesilo    |
+| mobile.republican    | premium   | $118.80   | $118.80       | medium         | medium | 6      | namesilo    |
+| dip.republican       | available | $5.99     | $46.99        | high           | low    | 3      | name.com    |
+| nevada.republican    | premium   | $500      | —             | medium         | low    | 6      | name.com    |
+| ego.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo    |
+| watson.republican    | premium   | $78.54    | $78.54        | high           | medium | 6      | namesilo    |
+| few.republican       | available | $5.99     | $28.99        | high           | low    | 3      | namesilo    |
+| culture.republican   | premium   | $123.75   | —             | high           | medium | 7      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .republican extension. The set spans neutral dictionary words, category terms, emotional words, and issue-adjacent terms such as textbook.republican, fierce.republican, and marriage.republican. For founders, the main question is message fit: does the word make sense with a political identity extension, or does it create friction? For investors, the key test is narrower: whether the pairing is specific enough to have resale relevance, yet broad enough to attract more than one likely buyer. With a median ask of 10.47, price may be accessible, but the real filter is semantic fit and audience clarity.
+This list includes one-word and short-phrase domain names registered under the .republican extension, spanning everyday nouns, playful combinations, and brandable terms. With 12,785 domains in this set and a median ask near $10, entry cost stays low across the board. Because .republican is a distinctive, non-mainstream extension, many everyday words remain unclaimed, giving investors and founders room to secure a memorable one-word name without bidding against classic-TLD competition.
 
-- Prioritize words that read naturally with .republican
-- Check if the term is broad, specific, or issue-linked
-- Compare ask price against likely buyer depth
-- Avoid names with obvious trademark exposure
+- 12,785 one-word .republican domains in this selection
+- Median ask near $10, low entry cost across the list
+- .republican is a distinctive, non-mainstream extension
+- Everyday words and short phrases, ready to brand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
