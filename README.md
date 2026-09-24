@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .republican one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,099 domains · **Median ask:** $7.94 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/republican`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| christmas.republican | available | $5.99     | $28.99        | high           | low    | 9      | namesilo  |
-| abo.republican       | available | $5.98     | $43.98        | medium         | low    | 3      | namecheap |
-| abc.republican       | premium   | $520      | $520          | medium         | medium | 3      | namecheap |
-| ago.republican       | available | $7.49     | $28.99        | low            | low    | 3      | namesilo  |
-| red.republican       | premium   | $520      | $520          | medium         | low    | 3      | namecheap |
-| ala.republican       | available | $5.99     | $28.99        | high           | low    | 3      | namesilo  |
-| deal.republican      | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo  |
-| ale.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
-| think.republican     | premium   | $4,140    | $4,140        | medium         | low    | 5      | namesilo  |
-| ash.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
-| woman.republican     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
-| beg.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
-| mobile.republican    | premium   | $118.80   | $118.80       | medium         | medium | 6      | namesilo  |
-| cxx.republican       | available | $5.98     | $43.98        | low            | low    | 3      | namecheap |
-| nevada.republican    | premium   | $500      | —             | medium         | low    | 6      | name.com  |
-| did.republican       | available | $5.99     | $28.99        | high           | low    | 3      | namesilo  |
-| watson.republican    | premium   | $78.54    | $78.54        | high           | medium | 6      | namesilo  |
-| dip.republican       | available | $5.99     | $46.99        | high           | low    | 3      | name.com  |
-| culture.republican   | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo  |
-| ego.republican       | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| abo.republican      | available | $5.98     | $43.98        | medium         | low    | 3      | namecheap |
+| abc.republican      | premium   | $520      | $520          | medium         | medium | 3      | namecheap |
+| ago.republican      | available | $7.49     | $28.99        | low            | low    | 3      | namesilo  |
+| red.republican      | premium   | $520      | $520          | medium         | low    | 3      | namecheap |
+| ala.republican      | available | $5.99     | $28.99        | high           | low    | 3      | namesilo  |
+| deal.republican     | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo  |
+| ale.republican      | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
+| think.republican    | premium   | $4,140    | $4,140        | medium         | low    | 5      | namesilo  |
+| ash.republican      | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
+| woman.republican    | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
+| beg.republican      | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
+| mobile.republican   | premium   | $118.80   | $118.80       | medium         | medium | 6      | namesilo  |
+| cxx.republican      | available | $5.98     | $43.98        | low            | low    | 3      | namecheap |
+| nevada.republican   | premium   | $500      | —             | medium         | low    | 6      | name.com  |
+| did.republican      | available | $5.99     | $28.99        | high           | low    | 3      | namesilo  |
+| watson.republican   | premium   | $78.54    | $78.54        | high           | medium | 6      | namesilo  |
+| dip.republican      | available | $5.99     | $46.99        | high           | low    | 3      | name.com  |
+| culture.republican  | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo  |
+| ego.republican      | available | $5.99     | $28.99        | medium         | low    | 3      | namesilo  |
+| nebraska.republican | premium   | $500      | —             | medium         | low    | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REPUBLICAN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
