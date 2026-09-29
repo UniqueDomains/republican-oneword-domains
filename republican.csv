@@ -1,7 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-4dd26495-5101-4dd5-aab3-0ad376355c69,blues.republican,available,5.98,43.98,high,low,5,namecheap,,,27/09/2026 06:58
+4dd26495-5101-4dd5-aab3-0ad376355c69,blues.republican,available,5.66,26.26,high,low,5,porkbun,,,29/09/2026 03:01
 b4125501-85ae-4efb-8cbc-b497a95c8fec,picky.republican,available,5.98,43.98,high,low,5,namecheap,,,18/08/2026 05:00
 a5c4101a-e0d1-4a72-8248-9980901f2b77,jra.republican,available,7.49,28.99,medium,low,3,namesilo,,,19/09/2026 14:09
+7197701b-8373-4ea5-a935-552fd94bc611,fawcett.republican,available,5.57,26.97,medium,low,7,dynadot,,,28/09/2026 23:26
 960fcb44-3ae9-4ef6-917c-3b6723cfea9a,standing.republican,available,7.49,28.99,high,low,8,namesilo,,,28/09/2026 00:41
 4c1a6a21-f18b-4451-bdfb-7f41e2fa8da4,guffaw.republican,available,5.98,43.98,high,low,6,namecheap,,,23/09/2026 06:41
 f3a9e8b4-0c40-403f-a435-2acb2d25a49e,brings.republican,available,7.49,28.99,medium,low,6,namesilo,,,18/09/2026 15:15
@@ -13,12 +14,13 @@ f3a9e8b4-0c40-403f-a435-2acb2d25a49e,brings.republican,available,7.49,28.99,medi
 0c04f208-9549-4cef-8cd8-b09026fdb0b2,consistent.republican,available,5.98,43.98,high,low,10,namecheap,,,12/08/2026 16:01
 275657cf-118e-4611-a92e-6ce374213720,committing.republican,available,5.99,28.99,high,low,10,namesilo,,,
 05294b7d-1b0d-48e4-ad86-a98cedc6fa97,contextual.republican,available,5.98,43.98,high,low,10,namecheap,,,12/08/2026 23:13
-85ee4626-ec27-4fc2-9e4c-ff1532a0da06,nation.republican,available,5.99,,high,low,6,name.com,,,
+85ee4626-ec27-4fc2-9e4c-ff1532a0da06,nation.republican,available,5.98,43.98,high,low,6,namecheap,,,29/09/2026 03:15
 3b65cbb4-cffc-41db-8958-470b0438f35a,promoter.republican,available,5.99,,high,low,8,name.com,,,
+8fdeb7b8-e9ba-40e8-b359-d288ad167a45,catering.republican,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 18:37
 c83c52c8-d877-49aa-a0ec-16131d74a9de,gregarious.republican,available,5.98,43.98,high,low,10,namecheap,,,20/08/2026 19:56
 4e3718e6-2cd9-4456-98b4-df0895b68d9c,crafty.republican,available,5.98,43.98,high,low,6,namecheap,,,24/09/2026 01:24
 b574622b-e915-4756-85f8-a6950a0dc4b5,finnish.republican,available,5.98,43.98,high,low,7,namecheap,,,18/08/2026 05:03
-858e08b3-3638-487a-b274-4036aee04c7f,typically.republican,available,5.99,,medium,low,9,name.com,,,
+858e08b3-3638-487a-b274-4036aee04c7f,typically.republican,available,7.49,28.99,medium,low,9,namesilo,,,28/09/2026 17:10
 e1f51295-b258-484f-9573-258d598c8969,gambian.republican,available,5.98,43.98,medium,low,7,namecheap,,,18/08/2026 19:48
 4c614d65-035d-4e09-8c1c-e8c67b6c7e92,married.republican,available,7.49,28.99,high,low,7,namesilo,,,25/09/2026 16:47
 d789f616-955d-474b-85e8-7dad17d9fc5e,untucked.republican,available,5.98,43.98,low,low,8,namecheap,,,12/09/2026 21:50
@@ -27,6 +29,7 @@ d292c36f-31d8-4c72-9f1a-19c70c006823,businessmen.republican,available,7.49,28.99
 13157606-035e-4daa-a108-098e6ea4d5c0,distributions.republican,available,7.49,28.99,medium,low,13,namesilo,,,25/09/2026 21:52
 056af1f3-7e71-4570-9872-e77feae23b3f,false.republican,available,7.49,28.99,high,low,5,namesilo,,,22/09/2026 10:15
 69b11d8f-4c26-433f-a944-3f1d1c276149,candlenut.republican,available,7.49,28.99,medium,low,9,namesilo,,,18/09/2026 05:37
+f0657424-c18c-42de-be85-309c55448b23,businesslike.republican,available,7.49,28.99,medium,low,12,namesilo,,,29/09/2026 02:32
 673b39ee-5672-4def-a97e-539f2266190f,diss.republican,available,7.49,28.99,medium,low,4,namesilo,,,17/09/2026 14:55
 23e967e4-2298-4617-836f-afdf4cd7726e,bitok.republican,available,7.49,28.99,medium,low,5,namesilo,,,23/09/2026 22:40
 fb22c98b-cc9f-44ea-8e03-7447f22c322a,eve.republican,available,7.49,28.99,high,medium,3,namesilo,,,24/09/2026 15:30
@@ -36,6 +39,7 @@ b882f3c9-cc8d-4633-a873-e914ff7058e0,persistence.republican,available,5.99,,high
 cf80ed73-7d38-4bf7-bd86-dad88cd33d8c,astatic.republican,available,5.98,43.98,medium,low,7,namecheap,,,07/08/2026 08:36
 5c46e6d9-f40a-4b49-9ee4-268f2361a3c7,demeanor.republican,available,7.49,28.99,high,low,8,namesilo,,,24/09/2026 21:47
 347ee2ab-11a7-4495-a8ac-42eabf9173a7,recurrent.republican,available,5.98,43.98,high,low,9,namecheap,,,09/09/2026 11:57
+810b0c6b-4fb5-4801-a070-500f318eff43,ismail.republican,available,7.49,28.99,medium,low,6,namesilo,,,28/09/2026 11:55
 9cf8ba25-1974-42d7-88fc-c290af02479d,dighted.republican,available,5.98,43.98,low,low,7,namecheap,,,14/08/2026 07:17
 c6c94812-bd16-43da-a25c-73f293e258e8,witless.republican,available,5.98,43.98,medium,low,7,namecheap,,,03/09/2026 17:49
 ccf7e0be-d815-4333-b463-9cbb9b9b2289,front.republican,available,5.98,43.98,high,low,5,namecheap,,,24/09/2026 21:48
@@ -44,7 +48,7 @@ ccf7e0be-d815-4333-b463-9cbb9b9b2289,front.republican,available,5.98,43.98,high,
 2120d04a-ace5-4046-ba23-cef1fff6ee8e,arlington.republican,available,5.98,43.98,medium,low,9,namecheap,,,20/09/2026 06:16
 9be33061-63dc-4cf4-96ff-97c4fe207ed8,colly.republican,available,5.98,43.98,medium,low,5,namecheap,,,14/08/2026 09:17
 1dda8204-2c87-47ea-9908-6d3d624f7ea6,seeded.republican,available,5.98,43.98,high,low,6,namecheap,,,10/09/2026 01:43
-8f3f0883-6043-4de7-a94e-a4bf37c55706,attempt.republican,available,5.99,28.99,high,low,7,namesilo,,,
+8f3f0883-6043-4de7-a94e-a4bf37c55706,attempt.republican,available,7.49,28.99,high,low,7,namesilo,,,28/09/2026 23:03
 c17afa7d-f3d7-4ea4-b45d-abdfd8ed751c,meuse.republican,available,7.49,28.99,medium,low,5,namesilo,,,20/09/2026 04:35
 4b278b1b-9a08-4969-b9db-0d37a271cdd0,superhuman.republican,available,5.98,43.98,high,low,10,namecheap,,,11/09/2026 02:16
 3ae976fd-2820-43df-83f4-168b23445ebb,geniality.republican,available,7.49,28.99,high,low,9,namesilo,,,17/09/2026 14:00
@@ -54,6 +58,7 @@ c53b3ee0-6388-4f85-9484-e1b7186f57a6,andre.republican,available,5.38,26,high,low
 1c8767d8-a9f6-46dc-bc75-4b3a6a014642,gluey.republican,available,5.98,43.98,medium,low,5,namecheap,,,20/08/2026 15:16
 ef420534-a17b-4fd8-8313-8c59b4ab67a5,supermodel.republican,available,5.99,,high,low,10,name.com,,,
 b716e509-a241-44f0-8237-c8c81d7a8739,incompatible.republican,available,5.99,,medium,low,12,name.com,,,
+2a3dbf00-bab0-4201-ad37-c233b3ede4be,baths.republican,available,5.66,26.26,high,low,5,porkbun,,,28/09/2026 23:22
 f244ced9-bb77-4a95-9464-95a2b6aac01d,perforate.republican,available,5.98,43.98,high,low,9,namecheap,,,08/09/2026 16:54
 b59ec1b9-8e27-48f1-a389-cc840578737b,recurring.republican,available,5.98,43.98,high,low,9,namecheap,,,09/09/2026 11:58
 bcd3f75f-0977-4e5f-a5f9-89886fac0146,requesting.republican,available,5.98,43.98,medium,low,10,namecheap,,,16/09/2026 07:09
@@ -65,6 +70,7 @@ e562d97c-23c0-4f54-bc81-fbbd9b02d5e6,obligate.republican,available,5.98,43.98,me
 dba03380-750b-42f5-9c17-602677f942aa,speedy.republican,available,5.98,43.98,high,low,6,namecheap,,,09/09/2026 08:40
 cfc66a64-3d8d-4cb3-93ae-aa5977f1219b,accusal.republican,available,7.49,28.99,medium,low,7,namesilo,,,16/09/2026 23:22
 b3f68a70-95a9-4790-81e7-cbbf8837491c,endlessly.republican,available,5.98,43.98,high,low,9,namecheap,,,14/09/2026 06:09
+d5d6da49-e75d-43e2-9422-fc9b94d35a4d,anastasia.republican,available,5.66,26.26,medium,low,9,porkbun,,,29/09/2026 03:46
 256b745e-acd7-4553-9b77-6fc2f55c3189,slang.republican,available,5.98,43.98,high,low,5,namecheap,,,12/08/2026 15:12
 e48d4e5e-2054-4ef6-a1f5-ddcc48fe3c51,rarest.republican,available,7.49,28.99,medium,low,6,namesilo,,,20/09/2026 08:14
 e8d7d690-b50e-4b6e-907b-6df8b21d7800,calm.republican,available,5.98,43.98,high,low,4,namecheap,,,23/09/2026 12:30
@@ -74,7 +80,9 @@ e8d7d690-b50e-4b6e-907b-6df8b21d7800,calm.republican,available,5.98,43.98,high,l
 069f4328-8ef2-4c33-86d5-547ac9e425c2,megabucks.republican,available,5.98,43.98,high,low,9,namecheap,,,23/09/2026 14:11
 9900f96d-530c-4f2e-9a02-d65607ef6eed,cislunar.republican,available,5.98,43.98,medium,low,8,namecheap,,,12/08/2026 08:30
 a7eff28e-718d-4a35-8c92-eda8a8553cb7,proteins.republican,available,5.98,43.98,medium,low,8,namecheap,,,08/09/2026 07:13
+77319477-7e7c-4bbd-9384-3f4cbb4e6bf7,uno.republican,available,7.49,28.99,high,medium,3,namesilo,,,28/09/2026 21:47
 6f97e6ec-da9b-435f-a1ea-cfc49f5447bb,yowl.republican,available,7.49,28.99,medium,low,4,namesilo,,,23/09/2026 06:24
+b5459cdc-d339-4b26-909e-1d51657bbf92,tac.republican,available,5.57,26.97,high,low,3,dynadot,,,28/09/2026 23:09
 31bf2bbb-eca1-4772-92aa-fd0cd2c14940,anodal.republican,available,5.98,43.98,medium,low,6,namecheap,,,
 cefd9e1e-ed90-4d09-9eb6-a3d715df2bab,ferric.republican,available,5.98,43.98,medium,low,6,namecheap,,,18/08/2026 02:07
 e204086a-5dc2-4e99-8b3e-f48cba30ef04,secondhand.republican,available,5.98,43.98,high,low,10,namecheap,,,10/09/2026 01:09
@@ -127,7 +135,9 @@ f20dc653-b27b-4f3f-9274-cc3c8fbfb6a5,wan.republican,available,5.98,43.98,high,lo
 221a2f3e-0ea1-4bfa-9a7e-2d0a08133dd9,basketful.republican,available,7.49,28.99,medium,low,9,namesilo,,,22/09/2026 11:27
 7506565b-75e8-4638-9dfd-3c38f08ad29b,advantages.republican,available,7.49,28.99,medium,low,10,namesilo,,,17/09/2026 07:07
 18856e48-4e52-4def-be46-4279d9e0bc59,adolescent.republican,available,5.98,43.98,high,low,10,namecheap,,,21/09/2026 19:03
-372b75d9-90f2-4098-a944-0a1397fa7abe,greatly.republican,available,5.99,,high,low,7,name.com,,,
+cb02b74f-8d2a-4fb4-9aa3-9fd9025256ff,tata.republican,available,5.38,26,high,low,4,spaceship,,,28/09/2026 15:39
+372b75d9-90f2-4098-a944-0a1397fa7abe,greatly.republican,available,5.38,26,high,low,7,spaceship,,,28/09/2026 15:04
+e72b5651-231d-4f5a-91ea-d9f04f58bb7d,terrace.republican,available,5.98,43.98,high,low,7,namecheap,,,28/09/2026 20:08
 b737792a-8bbe-40fe-8f82-c8ab34fde2d0,analyst.republican,available,7.49,28.99,high,low,7,namesilo,,,28/09/2026 07:53
 81493347-02d6-4cd5-8e3f-21409fe5ca69,benignly.republican,available,5.98,43.98,medium,low,8,namecheap,,,13/09/2026 23:51
 b4d14e32-f73a-4a4e-b33d-762d97c8180c,downy.republican,available,5.98,43.98,high,low,5,namecheap,,,14/08/2026 17:40
@@ -161,8 +171,10 @@ d33b9199-7037-4cd5-ba82-df96f984c2ff,mormon.republican,available,5.98,43.98,high
 053ce2b9-6f87-4927-88ea-4fd112f84705,untested.republican,available,5.98,43.98,medium,low,8,namecheap,,,12/09/2026 21:13
 d0ff0b79-f441-49cb-84b0-098053cfd54c,provide.republican,available,5.99,,high,low,7,name.com,,,
 1d61df2f-7487-480d-bb05-06b55093e890,vestibular.republican,available,5.98,43.98,medium,low,10,namecheap,,,13/09/2026 04:52
+ba094a93-4062-4873-b42f-336f4b6f618d,robb.republican,available,5.38,26,medium,low,4,spaceship,,,28/09/2026 12:14
 e255304d-b169-4bb4-bd61-e39e9b728b27,reveals.republican,available,7.49,28.99,medium,low,7,namesilo,,,20/09/2026 06:30
-37f79560-ad64-41b1-805a-57117344e85a,aaron.republican,premium,39,39,high,low,5,namecheap,,,
+37f79560-ad64-41b1-805a-57117344e85a,aaron.republican,premium,35.4,35.4,high,medium,5,namesilo,,,28/09/2026 16:56
+78eab777-ecc3-4009-93de-8fe7704b2c23,winifred.republican,available,5.38,26,medium,low,8,spaceship,,,28/09/2026 21:52
 df90892b-664c-4f9a-8cc8-2cd974c48135,debauched.republican,available,9.99,46.99,medium,low,9,name.com,,,13/08/2026 20:14
 855a1cf6-1ce1-4c4d-9522-ccc8bd14de77,fatah.republican,available,7.49,28.99,high,low,5,namesilo,,,18/09/2026 00:27
 8c69b0a8-a238-433e-9e4b-59f8f254037f,heartily.republican,available,5.98,43.98,high,low,8,namecheap,,,14/09/2026 08:41
@@ -173,10 +185,12 @@ af8a1c9d-f2eb-4b99-91fd-f851031c01df,dumpy.republican,available,5.98,43.98,mediu
 412fca15-f1ed-4b65-ad20-2bcb0ec70ac6,unseen.republican,available,5.98,43.98,high,low,6,namecheap,,,12/09/2026 16:05
 85293b56-8f0a-4425-99d8-225a58dadf6b,niner.republican,available,5.98,43.98,medium,low,5,namecheap,,,
 ae4c382f-8cbc-425d-a5ec-3b603e55b875,berry.republican,available,7.49,28.99,high,low,5,namesilo,,,23/09/2026 10:10
+5f5240cb-8dc1-4665-b212-195fdcb2a11c,airplanes.republican,available,7.49,28.99,medium,low,9,namesilo,,,28/09/2026 22:55
+8f437716-59d8-4616-877d-ad207b6f62a3,mumbai.republican,available,5.38,26,medium,low,6,spaceship,,,29/09/2026 00:13
 28a6d51a-0571-4e6c-9844-ff3e8d5f0cb1,thompson.republican,available,7.49,28.99,high,low,8,namesilo,,,23/09/2026 08:26
 ab751b06-f4a9-4b1f-b3b6-6a27a4fb6143,retrieved.republican,available,5.99,,medium,low,9,name.com,,,
 995e6a48-96a0-4efb-b0d7-1b33b970028f,aphorist.republican,available,7.49,28.99,medium,low,8,namesilo,,,19/09/2026 17:11
-a7797724-23ae-4b18-a975-849679f4e787,camping.republican,available,5.99,28.99,high,low,7,namesilo,,,
+a7797724-23ae-4b18-a975-849679f4e787,camping.republican,available,5.57,26.97,high,low,7,dynadot,,,29/09/2026 02:56
 50d2c016-0c1a-4193-a68b-fa0ffbab118b,stacks.republican,available,5.98,43.98,high,medium,6,namecheap,,,14/09/2026 23:24
 3940f583-0ca8-4a38-9d0d-86639f759ea1,magazine.republican,available,7.49,28.99,high,low,8,namesilo,,,25/09/2026 04:04
 ba732e0b-ad1e-4721-bba9-953cf82758d4,aardvark.republican,available,7.49,28.99,high,low,8,namesilo,,,16/09/2026 13:21
@@ -187,16 +201,19 @@ eeda8eb4-9c92-4c41-a953-8dbda71e5253,palliative.republican,available,5.98,43.98,
 b03c6bd7-e42f-4c25-8417-e15335baf714,aphorism.republican,available,7.49,28.99,medium,low,8,namesilo,,,19/09/2026 17:09
 7410440e-d7ad-491d-9613-2b61a1f3a387,bullet.republican,available,5.99,28.99,high,low,6,namesilo,,,
 254f03c9-d0d5-4de8-8a1b-0a403b9d0c9d,flawlessly.republican,available,5.98,43.98,medium,low,10,namecheap,,,12/08/2026 10:23
-0b6bf403-e861-4df2-961c-7db7f3d2ec26,background.republican,available,5.99,28.99,high,low,10,namesilo,,,
+0b6bf403-e861-4df2-961c-7db7f3d2ec26,background.republican,available,5.57,26.97,high,low,10,dynadot,,,29/09/2026 00:20
 9503d5a0-e854-4aed-9c5c-482d32e80ee2,greatest.republican,available,5.98,43.98,high,low,8,namecheap,,,20/08/2026 19:40
 c2ff3146-c655-448d-b663-ccc13ddf78c8,kobe.republican,available,5.66,26.26,high,low,4,porkbun,,,28/09/2026 02:14
 bea84e7c-a7c7-4d83-9411-6275386ddf2f,cationic.republican,available,5.98,43.98,medium,low,8,namecheap,,,11/08/2026 22:07
 495bc33e-1134-438c-ab7f-41a7ddaf47c1,hempen.republican,available,5.98,43.98,medium,low,6,namecheap,,,18/08/2026 03:20
 ed4cfb7d-5d62-416a-a996-cbf02a21f6c6,oratorical.republican,available,5.98,43.98,medium,low,10,namecheap,,,04/09/2026 17:30
+9ec1e8b9-ea8c-47b0-af57-398b2437a06e,incorporated.republican,available,7.49,28.99,medium,low,12,namesilo,,,28/09/2026 22:28
+04195b15-73e7-48a9-bbb9-accc4752f638,racism.republican,available,5.38,26,medium,low,6,spaceship,,,29/09/2026 02:00
 3c952c77-a9fd-4c1a-819b-d4df69acd5dc,teaspoons.republican,available,7.49,28.99,medium,low,9,namesilo,,,19/09/2026 22:48
 4c626001-eb70-427a-9a71-5ff050cf05b8,bagger.republican,available,5.98,43.98,medium,low,6,namecheap,,,21/09/2026 18:02
 67ca9536-ab78-4764-b22c-5e635e7cb34b,sees.republican,available,5.99,46.99,medium,low,4,name.com,,,
 fcb365bf-d6e8-43b0-9d13-728cc684de76,marching.republican,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 02:19
+307e358a-a90b-43e1-abd2-3061d61678e4,townshend.republican,available,5.98,43.98,medium,low,9,namecheap,,,29/09/2026 04:20
 3b6158d6-8012-438c-bf26-cab676528894,overhand.republican,available,5.98,43.98,high,low,8,namecheap,,,04/09/2026 20:09
 95dbf472-9f59-4f90-a9bc-2c1eb7ce18df,raffish.republican,available,9.99,46.99,medium,low,7,name.com,,,13/08/2026 17:31
 298c686a-e53d-4095-b1aa-f09e7c8b29d7,rented.republican,available,7.49,28.99,medium,low,6,namesilo,,,17/09/2026 18:45
@@ -210,6 +227,7 @@ bd576c12-e1d4-40dc-8410-31c9b4fe0931,case.republican,available,5.99,28.99,high,l
 12ecbf03-ef11-4e32-8e38-35c52e456c62,bearded.republican,available,5.98,43.98,high,low,7,namecheap,,,08/08/2026 16:05
 272b786d-fa40-4768-b9b5-137ff3483433,armiger.republican,available,7.49,28.99,medium,low,7,namesilo,,,20/09/2026 06:59
 91a36c16-8d44-46e7-9667-fcf89fdf1795,cursively.republican,available,5.98,43.98,medium,low,9,namecheap,,,14/09/2026 10:07
+fe45f631-e6e4-46ce-b066-0e0cd1768e7d,warren.republican,premium,33,33,high,low,6,dynadot,,,29/09/2026 00:43
 29d5f701-a244-406d-84a0-349f7f32af66,istanbul.republican,available,5.98,43.98,high,low,8,namecheap,,,24/09/2026 17:33
 62f4adfb-b7eb-4c92-9c7a-51c066f20a9f,trinity.republican,available,7.49,28.99,high,medium,7,namesilo,,,21/09/2026 13:07
 97e0754a-ddef-4292-98f5-2707c212cc0a,mosaic.republican,available,5.98,43.98,high,medium,6,namecheap,,,25/08/2026 06:45
@@ -227,6 +245,7 @@ c2b99c82-cae8-4387-b371-41aad3f961cc,mirthful.republican,available,5.98,43.98,hi
 efca55d9-333f-4e3a-9115-6bbe5ca11584,scallops.republican,available,7.49,28.99,medium,low,8,namesilo,,,19/09/2026 23:48
 8e7be4b5-df74-42c3-b318-a73018033b01,slyness.republican,available,5.98,43.98,medium,low,7,namecheap,,,13/08/2026 10:43
 961354d4-91dc-4536-a763-e3e380ab6769,esoteric.republican,available,5.98,43.98,high,low,8,namecheap,,,17/08/2026 13:17
+3e71ffd0-ff2b-4b81-954f-57f8e53cd23c,gardener.republican,available,7.49,28.99,medium,low,8,namesilo,,,28/09/2026 09:51
 d42cf1bc-1bea-4334-b21c-6fdbccf3e0f1,kidnapper.republican,available,7.49,28.99,medium,low,9,namesilo,,,16/09/2026 14:52
 5d6694a3-9663-4642-941c-19f018f7ad84,apios.republican,available,5.98,43.98,medium,low,5,namecheap,,,19/09/2026 17:25
 334c5c5b-6e54-4a63-8678-c2a1cea0d2ad,blok.republican,available,7.49,28.99,high,low,4,namesilo,,,18/09/2026 05:01
@@ -245,10 +264,12 @@ ee457205-dd9a-448a-be20-5256272aa6a1,proposal.republican,available,7.49,28.99,hi
 2dc05cc1-6b1b-4314-9a4b-e3db1fecd3b6,frothy.republican,available,5.98,43.98,medium,low,6,namecheap,,,11/08/2026 07:22
 a9e8c03d-7440-401c-8735-4bea139cd0b9,provider.republican,available,5.99,,high,low,8,name.com,,,
 07eb8f59-ced2-4db0-bcc4-ea17e2e3ff2e,unhampered.republican,available,5.98,43.98,high,low,10,namecheap,,,12/09/2026 11:51
+95958694-dd7f-4438-ba5c-89e1472baba8,shrine.republican,available,5.38,26,high,low,6,spaceship,,,28/09/2026 10:54
 a90beff4-1e23-40f5-b01a-c86614e21b93,advise.republican,available,7.49,28.99,high,low,6,namesilo,,,27/09/2026 03:36
 a043e195-f50c-4e95-bd40-01ee5d7a75a6,noise.republican,available,5.99,,high,low,5,name.com,,,
 bdd46fd8-85b2-40ca-b2c5-d836ee3defc1,bituminous.republican,available,5.98,43.98,high,low,10,namecheap,,,10/08/2026 08:53
 62a05196-8371-4bde-b7db-2d21325911fb,adrenal.republican,available,5.98,43.98,high,low,7,namecheap,,,
+49a9f369-06aa-4afd-a94c-cb7a257aabd3,signatures.republican,available,5.38,26,medium,low,10,spaceship,,,28/09/2026 23:59
 c810ba52-4c45-47e8-bc8d-b25ffa8fe66f,faraway.republican,available,5.98,43.98,high,low,7,namecheap,,,17/08/2026 22:14
 455b9dc2-e8b5-4332-808e-0787b4517475,tyranny.republican,available,5.98,43.98,medium,low,7,namecheap,,,16/09/2026 18:02
 425d8ad5-409d-4f9d-b71d-342681670759,freaking.republican,available,5.99,28.99,medium,low,8,namesilo,,,
@@ -256,7 +277,8 @@ c04b76fd-f019-4153-8251-97cbf2b92f54,reveal.republican,available,5.99,,high,low,
 6393586f-3ead-4c0b-a738-e1dffd41c886,occitan.republican,available,5.98,43.98,medium,low,7,namecheap,,,09/09/2026 04:30
 0cb22ca2-d5f3-4c1f-b025-5ab0e3d007e5,bordeaux.republican,available,7.49,28.99,high,low,8,namesilo,,,24/09/2026 07:22
 c5011ef3-f23f-4b10-bf5f-3654c2098bc3,consistently.republican,available,5.99,28.99,high,low,12,namesilo,,,
-74ff7df0-e835-4345-806c-7a5f3a6f6d9c,nowhere.republican,available,5.99,,high,low,7,name.com,,,
+10e07619-c51c-4fc1-9bc6-b1bb4c994daf,karin.republican,available,7.49,28.99,medium,low,5,namesilo,,,29/09/2026 04:04
+74ff7df0-e835-4345-806c-7a5f3a6f6d9c,nowhere.republican,available,5.66,26.26,high,low,7,porkbun,,,28/09/2026 16:28
 c18e9143-2667-45ed-9f36-869c47c7fd2d,payment.republican,available,5.38,26,high,medium,7,spaceship,,,28/09/2026 08:59
 29888260-05b1-44d4-a1cb-b0ef4462972d,glorious.republican,available,5.98,43.98,high,low,8,namecheap,,,20/08/2026 14:48
 b437d29e-2961-4463-a36e-d47e75c6dd11,gangly.republican,available,5.98,43.98,medium,low,6,namecheap,,,18/08/2026 20:09
@@ -275,6 +297,7 @@ b4304083-a15e-4ea5-94a7-e135515077a8,eyeless.republican,available,5.98,43.98,med
 0153559a-a9fe-4fae-bdfd-d1d843bac1c6,lxxxiv.republican,available,5.98,43.98,medium,low,6,namecheap,,,
 a0dd9047-b640-4bce-9a18-69e647e899c4,cimarron.republican,available,7.49,28.99,high,low,8,namesilo,,,23/09/2026 15:12
 dd9d2e43-6335-4fcc-b8cc-6082a290fbbe,haircuts.republican,available,5.98,43.98,medium,low,8,namecheap,,,21/09/2026 07:16
+6f506af0-5b79-4520-8776-b386f5152098,esters.republican,available,5.57,26.97,low,low,6,dynadot,,,28/09/2026 13:25
 8d96fa85-a936-4fe4-a025-4a55f9fef97b,ninth.republican,available,5.98,43.98,high,low,5,namecheap,,,
 d71c8221-2b2c-4abc-a0e1-26cc70f93333,cacophony.republican,available,5.98,43.98,medium,low,9,namecheap,,,10/08/2026 13:13
 f49ec287-769a-47c4-a581-d58629a90933,cali.republican,available,5.99,28.99,high,low,4,namesilo,,,
@@ -303,12 +326,14 @@ dc271c97-b4af-48c5-92a9-44ab8245adee,bastille.republican,available,5.98,43.98,hi
 b1f6e151-3e79-4302-9f9f-520b53661afd,arguably.republican,available,5.98,43.98,medium,low,8,namecheap,,,13/09/2026 20:45
 b65f1a40-349a-4f93-aff7-44a68be9a38f,berliner.republican,available,7.49,28.99,high,low,8,namesilo,,,23/09/2026 09:38
 530b8144-21e2-45b9-8575-b92f88144180,funky.republican,available,5.98,43.98,high,low,5,namecheap,,,18/08/2026 02:27
+a7a18555-2cd7-4e40-b7f5-2639ded37677,impose.republican,available,7.49,28.99,high,low,6,namesilo,,,28/09/2026 10:13
 8e6ab805-1d28-48c6-8e56-28c5132c2da1,learnt.republican,available,5.99,,medium,low,6,name.com,,,
 a12d2e9d-5be0-4d53-a918-cda820e5b269,pressing.republican,available,7.49,28.99,high,low,8,namesilo,,,27/09/2026 05:26
 d781a692-26e7-4b47-a445-b8c9ad247f4d,airhead.republican,available,7.49,28.99,high,low,7,namesilo,,,17/09/2026 23:11
 e137cdb0-8dac-47dc-9a35-5fd08ca471a7,hanging.republican,available,7.49,28.99,medium,low,7,namesilo,,,25/09/2026 04:41
 daee175b-72b5-4858-8623-80f8ba5f414b,asked.republican,available,5.99,28.99,high,low,5,namesilo,,,
 d63acb7a-ce64-41d8-81b8-ec3188f2c57e,jumping.republican,available,5.98,43.98,high,low,7,namecheap,,,08/09/2026 06:49
+2bb99d58-6841-47f4-b112-7f027d0a1f24,crt.republican,available,5.66,26.26,high,low,3,porkbun,,,28/09/2026 18:38
 1806a8fe-5256-4dd1-baab-43ea5294c3bf,laputan.republican,available,5.98,43.98,medium,low,7,namecheap,,,22/08/2026 19:49
 35af9d04-65a4-4579-956b-a5060e6585dd,railroad.republican,available,7.49,28.99,high,low,8,namesilo,,,24/09/2026 23:46
 0d2b19a8-9706-4c59-8309-a8b04e5a0693,unfettered.republican,available,5.98,43.98,high,low,10,namecheap,,,12/09/2026 04:56
@@ -318,6 +343,7 @@ da9524ae-1c42-4439-a22c-d1b3633df31b,journalism.republican,available,5.99,,high,
 c77c4ad2-47ad-44ff-8228-7c7c4b371566,lightless.republican,available,5.98,43.98,medium,low,9,namecheap,,,23/08/2026 04:36
 99c5c28d-3812-44dd-a1d4-d7670f380ba3,extend.republican,available,5.99,28.99,high,low,6,namesilo,,,
 6f5e9819-a3f3-4fac-ae85-24ca2053f78a,vaughn.republican,available,7.49,28.99,high,low,6,namesilo,,,27/09/2026 11:16
+9940f353-1d0a-4c36-aa50-adc7a22fe855,greeting.republican,available,7.49,28.99,high,low,8,namesilo,,,28/09/2026 14:22
 3361a232-4fb3-45a8-8bc9-b966b73cbfda,castaway.republican,available,5.98,43.98,high,low,8,namecheap,,,04/09/2026 19:05
 7ebe1a94-580c-4cd7-beef-74fab81da526,around.republican,available,5.98,43.98,high,low,6,namecheap,,,21/09/2026 14:17
 34ab2967-4a74-4d17-8e04-3ac93ccd633f,rigour.republican,available,7.49,28.99,medium,low,6,namesilo,,,20/09/2026 14:57
@@ -327,13 +353,14 @@ f23df418-f977-4ab2-9f1b-268983cddf4c,assessment.republican,available,7.49,28.99,
 1193b89c-ba1f-499f-83ec-684ba6214cc1,isosceles.republican,available,5.98,43.98,medium,low,9,namecheap,,,22/08/2026 11:16
 74cb0de8-a30c-4dcd-aac5-9cd215ec4d96,shelby.republican,available,5.98,43.98,high,low,6,namecheap,,,25/09/2026 15:30
 460a2ee5-8f96-44fa-b2dc-391bb817f3e6,dividable.republican,available,5.98,43.98,medium,low,9,namecheap,,,14/08/2026 13:41
-f81a094e-19e9-4948-8354-5ac099cb44ba,personally.republican,available,5.99,,high,low,10,name.com,,,
+f81a094e-19e9-4948-8354-5ac099cb44ba,personally.republican,available,25.2,25.2,medium,low,10,cloudflare,,,28/09/2026 15:35
 9f0e507b-41cf-4fa3-af4e-cd2f4097d304,aerogram.republican,available,5.98,43.98,medium,low,8,namecheap,,,17/09/2026 13:04
 3e8632f4-6a6f-404b-80ad-52a34fcc6412,uptight.republican,available,5.98,43.98,medium,low,7,namecheap,,,15/08/2026 09:30
 4d550650-31a4-43b1-863b-c63a8427b3ab,agapanthus.republican,available,7.49,28.99,medium,low,10,namesilo,,,17/09/2026 16:11
 0220dce2-3a31-4ca4-8eb2-093dd49a7a4b,ardent.republican,available,5.98,43.98,high,low,6,namecheap,,,06/08/2026 16:11
 c0fba568-40bd-4134-8666-388584e09455,asperity.republican,available,5.98,43.98,medium,low,8,namecheap,,,20/09/2026 14:51
 e00ede13-348c-4a64-9fe8-b076d2874e6b,slippered.republican,available,5.98,43.98,medium,low,9,namecheap,,,10/09/2026 10:59
+a6f23ab0-0ae4-41c0-a1ca-f9363065f46e,wii.republican,available,7.49,28.99,high,low,3,namesilo,,,28/09/2026 16:10
 ed6f4196-d347-4d03-997d-64130ba142d8,conscience.republican,available,5.99,28.99,high,low,10,namesilo,,,
 4d92389f-6eef-408c-a1f0-fb22aa8448e6,operant.republican,available,5.98,43.98,high,low,7,namecheap,,,04/09/2026 16:22
 47235676-d487-4d43-b070-006d928375c1,relationships.republican,available,5.98,43.98,medium,low,13,namecheap,,,17/09/2026 20:15
@@ -345,6 +372,7 @@ a9e85998-173c-4355-94c8-9e58311a602c,lacrimal.republican,available,5.98,43.98,me
 829c1447-f2db-433b-bb59-f7e4aa8f921d,unclaimed.republican,available,5.98,43.98,medium,low,9,namecheap,,,12/09/2026 05:13
 c5069b68-c349-44f3-879b-da19334f124d,horsefish.republican,available,5.98,43.98,medium,low,9,namecheap,,,20/09/2026 21:39
 2f41b5e7-e47f-4465-9834-8b0b7f324513,discreetly.republican,available,5.98,43.98,medium,low,10,namecheap,,,14/09/2026 13:04
+dbd58534-82ac-434c-a89f-02fe06279783,huston.republican,available,5.38,26,medium,low,6,spaceship,,,28/09/2026 14:28
 a664703c-bf19-4ee1-9e9f-12fdddb39228,wallow.republican,available,5.98,43.98,medium,low,6,namecheap,,,23/09/2026 16:37
 36568d80-774c-490b-9e5f-4cb811988705,climbing.republican,available,7.49,28.99,high,low,8,namesilo,,,24/09/2026 15:41
 c0f81ba3-5be9-47a5-8709-aa70b6640abe,atenolol.republican,available,5.98,43.98,medium,low,8,namecheap,,,20/09/2026 20:09
@@ -360,13 +388,15 @@ d775fff3-f7e7-4e8c-a9a9-03ba97d9f11f,inglorious.republican,available,5.98,43.98,
 9cc13dbf-8dc8-494f-bb81-cfd5a153e8c0,entertaining.republican,available,7.49,28.99,high,low,12,namesilo,,,28/09/2026 07:00
 4abb0112-810f-42cb-a962-8882d96919ef,humour.republican,available,7.49,28.99,high,low,6,namesilo,,,24/09/2026 06:31
 41b81ef8-2859-4b42-9ea3-f2aca72aea08,faster.republican,available,5.98,43.98,high,low,6,namecheap,,,14/09/2026 17:46
+d782424e-1620-40f6-9a68-27939e739bf9,cuthbert.republican,available,5.38,26,medium,low,8,spaceship,,,29/09/2026 03:58
 495fb566-d97e-4088-a8c7-35fc19aabd37,downplay.republican,available,7.49,28.99,high,low,8,namesilo,,,21/09/2026 15:36
+88ace776-7165-44f9-9054-664a2b2f2a4f,repairs.republican,available,5.38,26,medium,low,7,spaceship,,,28/09/2026 18:11
 df39a4ab-90d6-4962-8b69-063a7c8f82bd,medication.republican,available,5.99,,high,low,10,name.com,,,
 e6af5833-bfba-4584-8f14-d8af6f1fcecb,acerola.republican,available,9.99,46.99,medium,low,7,name.com,,,16/09/2026 23:42
 bcffd79d-707e-4f1e-b7ef-6e708020b082,sectorial.republican,available,5.98,43.98,medium,low,9,namecheap,,,10/09/2026 01:22
 fe2444c9-ece9-4e18-9301-ad6ac0fb8774,reynolds.republican,available,5.98,43.98,high,low,8,namecheap,,,25/09/2026 10:19
 6655005d-6641-423a-899c-8c38abba5674,gas.republican,available,7.49,28.99,high,low,3,namesilo,,,23/09/2026 01:57
-0e2f9790-b4d4-44e2-b425-2a964707dcf3,bird.republican,available,5.99,28.99,high,medium,4,namesilo,,,
+0e2f9790-b4d4-44e2-b425-2a964707dcf3,bird.republican,available,7.49,28.99,high,medium,4,namesilo,,,29/09/2026 02:46
 c1ad7b36-24c1-4afa-a7e8-c1f3f32e8f69,pectoralis.republican,available,5.98,43.98,medium,low,10,namecheap,,,08/09/2026 12:06
 2734b34d-cba8-456c-a730-0dbe6ee2801a,overdone.republican,available,5.98,43.98,medium,low,8,namecheap,,,17/08/2026 15:34
 76b41f1c-b795-4658-93ec-03c59ead1165,lenient.republican,available,5.98,43.98,high,low,7,namecheap,,,22/08/2026 23:46
@@ -381,7 +411,9 @@ a3623265-2fce-44e0-952f-05de7f4c8040,javanese.republican,available,5.98,43.98,hi
 854f3c5f-b0d4-42d7-8a64-70aeaa1c1141,climate.republican,available,5.99,28.99,high,low,7,namesilo,,,
 656e8343-b8ee-40e1-bbd3-af34c7aaf048,practitioners.republican,available,7.49,28.99,medium,low,13,namesilo,,,20/09/2026 23:01
 b072f0b5-6b6e-4b01-b2de-a4b95431cab3,fellowing.republican,available,5.98,43.98,low,low,9,namecheap,,,20/09/2026 20:26
+68eef1f7-23ff-4525-9fa8-e483372ddfe8,henson.republican,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 14:26
 88198ad3-fd63-4627-a75b-b8f4c93464c0,kitchen.republican,available,5.99,,high,low,7,name.com,,,
+98a7c7b9-32b2-4068-9b79-36b19966453d,sedgwick.republican,available,7.49,28.99,medium,low,8,namesilo,,,28/09/2026 16:41
 fec9d32b-c26e-4dcd-a6dd-c4f3bc23600b,opalescent.republican,available,5.98,43.98,medium,low,10,namecheap,,,04/09/2026 15:43
 041b6c22-8cdf-4db0-bab5-5a6995172f7f,aunts.republican,available,7.49,28.99,medium,low,5,namesilo,,,18/09/2026 15:51
 aeddfad3-5ac3-487d-bd60-a237b060b879,abrasive.republican,available,5.98,43.98,high,low,8,namecheap,,,
@@ -436,6 +468,7 @@ c456635a-8746-4053-b04d-6bda7a57b403,unworldly.republican,available,5.98,43.98,m
 b42fb859-075d-4505-b7d9-6dd56c8635ac,buttermilk.republican,available,7.49,28.99,high,low,10,namesilo,,,24/09/2026 11:20
 6a0b9342-52f7-4180-82ff-d65f73de919a,rim.republican,available,7.49,28.99,high,low,3,namesilo,,,24/09/2026 10:31
 fdce1ab8-c6cd-411a-8440-5389173e48a2,granny.republican,available,5.99,,high,low,6,name.com,,,
+530c2027-0bd6-444e-9d17-aad81dbde015,sherlock.republican,available,7.49,28.99,high,low,8,namesilo,,,28/09/2026 15:08
 7ad35096-0661-4feb-911b-1b424776088a,rules.republican,available,5.99,,high,low,5,name.com,,,
 506ab9b8-1182-49e1-872c-cb5d57bcd7d1,snippet.republican,available,5.99,,high,low,7,name.com,,,
 7b06c3c8-d8c0-454a-8cb2-962855d7d0d2,asbestosis.republican,available,5.98,43.98,medium,low,10,namecheap,,,20/09/2026 12:56
@@ -450,6 +483,7 @@ f328ea71-a824-474a-b732-a73427aaf151,laurie.republican,available,7.49,28.99,high
 1fb014ac-36fc-4f8c-80d8-639fdbe68ba1,dahomey.republican,available,7.49,28.99,medium,low,7,namesilo,,,23/09/2026 08:10
 5166b848-e7de-4978-85da-85b719815101,objective.republican,available,5.98,43.98,high,low,9,namecheap,,,03/09/2026 20:47
 9e1a35d6-a16b-460c-b074-447d9ff4a39f,pillock.republican,available,5.98,43.98,low,low,7,namecheap,,,10/09/2026 23:13
+c7f2cf97-5fb2-4925-89bc-263b7271ae30,novels.republican,available,5.57,26.97,medium,low,6,dynadot,,,28/09/2026 23:11
 c6b32307-b2fa-460c-910d-e3987241ddbb,plantal.republican,available,5.98,43.98,medium,low,7,namecheap,,,08/09/2026 20:48
 51b4e2f9-d14d-4be0-9eb4-f65c5c1ede38,twisted.republican,available,5.98,43.98,high,low,7,namecheap,,,25/08/2026 01:43
 a9f56d40-c3c8-416e-ac9d-fadd32f6c83e,aerator.republican,available,7.49,28.99,medium,low,7,namesilo,,,17/09/2026 12:47
@@ -460,6 +494,7 @@ a077455a-27f4-4478-ac31-574282cbe682,stephanie.republican,available,5.98,43.98,h
 a4eefc45-94c8-491c-bbea-c236a530d8c2,drogue.republican,available,7.49,28.99,medium,low,6,namesilo,,,17/09/2026 21:47
 2e5a52c4-2d55-4a91-a984-786754f14dea,sidney.republican,available,7.49,28.99,high,low,6,namesilo,,,27/09/2026 05:44
 d958da87-b8f7-4410-917e-dc6a88f9cac1,occur.republican,available,5.99,,high,low,5,name.com,,,
+4d9d8548-d7e6-47e8-874a-d5696ca22f48,charlestown.republican,available,25.2,25.2,medium,low,11,cloudflare,,,28/09/2026 12:26
 18e0b929-c621-487f-b26a-ac3b40c4f8d1,skyward.republican,available,5.98,43.98,high,low,7,namecheap,,,21/08/2026 05:26
 b0414643-2bc6-4c1b-b64d-3cb31bbc4b1d,cheat.republican,available,5.98,43.98,high,low,5,namecheap,,,12/08/2026 03:31
 7649d6a3-dba6-47fb-b3a5-73bd92cf7267,ursine.republican,available,5.98,43.98,low,low,6,namecheap,,,12/09/2026 23:53
@@ -486,11 +521,13 @@ cc1ad30a-276a-4b40-b726-f9921461ebfc,dorchester.republican,available,7.49,28.99,
 71eb1a43-ee82-4e19-87d0-e9bcf3b13908,lowering.republican,available,7.49,28.99,high,low,8,namesilo,,,25/09/2026 15:28
 e761ae64-958a-48b6-a469-cee20424f396,spanish.republican,available,7.49,28.99,high,low,7,namesilo,,,28/09/2026 00:05
 1f6c111f-2548-4ca5-bb37-4e33a3983007,downsizing.republican,available,7.49,28.99,medium,low,10,namesilo,,,24/09/2026 23:41
+c1d26070-a3c6-4b75-ab75-69cb69c4deda,cio.republican,available,5.38,26,high,low,3,spaceship,,,28/09/2026 18:44
 af998de3-a27e-4830-bcef-0adb3e7361b7,philippi.republican,available,7.49,28.99,medium,low,8,namesilo,,,22/09/2026 15:38
 a45cf0c8-5fee-4790-98e6-3fb01a67046f,incurable.republican,available,5.98,43.98,medium,low,9,namecheap,,,22/08/2026 02:06
 5d1fed28-29f0-49d8-aeae-3d9d8a7f58e1,contention.republican,available,7.49,28.99,medium,low,10,namesilo,,,20/09/2026 04:48
 5f3b96fa-c2b6-4650-a8bf-e71bc86f98c7,salubrious.republican,available,5.98,43.98,high,low,10,namecheap,,,20/08/2026 16:33
 44f3f7d7-e215-4954-8f79-9fc0d3f5b6e1,leafless.republican,available,5.98,43.98,medium,low,8,namecheap,,,22/08/2026 21:56
+bbe1938a-5e56-4c0c-8ced-2db30a393b25,santos.republican,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 15:17
 3df023cf-2221-4ee3-b685-eb4744475ada,kitty.republican,available,7.49,28.99,high,low,5,namesilo,,,25/09/2026 23:15
 8ae47424-5ba9-4118-83d6-6f0210f4dcd4,pacemaker.republican,available,7.49,28.99,high,low,9,namesilo,,,20/09/2026 11:42
 b80faef1-34f4-45b1-9ad7-993422be8800,blindly.republican,available,5.98,43.98,medium,low,7,namecheap,,,14/09/2026 00:21
@@ -507,6 +544,7 @@ b2651b07-33ca-4ccb-954d-ec406ae79179,seize.republican,available,5.98,43.98,high,
 2d2b772d-71a4-4e56-9fb7-bd0dbb3f5034,detour.republican,available,5.99,28.99,high,low,6,namesilo,,,
 407e48bb-9490-46d9-8ca5-ae38e965544c,giza.republican,available,5.99,28.99,high,low,4,namesilo,,,
 1ff13d5c-7c5f-471f-bb0a-f5a4696c876f,ringer.republican,available,7.49,28.99,high,low,6,namesilo,,,23/09/2026 05:42
+8d764b63-0c63-492d-b453-cc3969391cd1,examiner.republican,available,5.38,26,medium,low,8,spaceship,,,28/09/2026 14:05
 069f62d3-a723-45f7-9975-e85e6bb67f71,put.republican,available,5.98,43.98,high,low,3,namecheap,,,25/09/2026 13:13
 621ae086-9c68-4ef5-9b20-00fa08263c6a,lossless.republican,available,5.98,43.98,medium,low,8,namecheap,,,24/08/2026 09:56
 eb92bf2e-dc7f-4db2-8482-495b7b667098,sneezewort.republican,available,7.49,28.99,medium,low,10,namesilo,,,17/09/2026 00:38
@@ -515,6 +553,7 @@ feeebdd7-f2fa-4395-b369-1eae6a8c718f,afrl.republican,available,7.49,28.99,medium
 84d36eff-3e8b-4cb9-8a35-34928c1b6955,annon.republican,available,5.98,43.98,medium,low,5,namecheap,,,19/09/2026 10:29
 5c1b6c84-8cc8-4e0e-895d-df8d34fa93bd,asocial.republican,available,5.98,43.98,medium,low,7,namecheap,,,07/08/2026 04:36
 9eeaef11-0652-48a2-99c7-9cff20e9aa11,chocolate.republican,available,5.98,43.98,high,low,9,namecheap,,,28/09/2026 09:05
+cd1fbe2f-bea2-4d8d-93e2-5297161efa9b,tennessee.republican,premium,414.2,414.2,high,low,9,spaceship,,,28/09/2026 11:00
 5710a37c-5189-4975-9dd9-e4d17129b549,fleshly.republican,available,5.98,43.98,medium,low,7,namecheap,,,
 f6f138b1-76f4-48e2-b2b6-146318d3e1d1,humoring.republican,available,5.98,43.98,high,low,8,namecheap,,,05/09/2026 00:31
 a9ea2a0e-6cc4-4b1c-b0f6-34e83e25d8d0,bankable.republican,available,5.98,43.98,high,low,8,namecheap,,,08/08/2026 13:24
@@ -545,9 +584,11 @@ f33bcab8-338b-4835-aa76-e89200c782c7,wasteful.republican,available,5.98,43.98,me
 68e77e31-68f3-49d4-94a1-e33658735f05,gifted.republican,available,5.98,43.98,high,low,6,namecheap,,,18/08/2026 23:27
 96aa6237-ad9a-4059-953d-07bd7d7cc2aa,exhale.republican,available,5.99,28.99,high,low,6,namesilo,,,
 eb889bdd-27f1-46f5-b1b3-c8b36678e54e,textbook.republican,available,7.49,28.99,high,low,8,namesilo,,,23/09/2026 13:09
+bc3fba7e-f2be-4664-bd7b-2c80f95548d6,edison.republican,available,7.49,28.99,high,low,6,namesilo,,,29/09/2026 00:45
 a00cfca1-57fa-4eda-b3ff-c75daeb1dcb3,autistic.republican,available,5.98,43.98,high,low,8,namecheap,,,07/08/2026 19:22
 9f4685d9-2550-4f90-a2bb-6b7a03dc30c5,fearsome.republican,available,5.98,43.98,medium,low,8,namecheap,,,14/08/2026 08:55
 d6adfe5f-7766-4d47-abf5-7ff494d9b180,dart.republican,available,5.98,43.98,high,low,4,namecheap,,,18/08/2026 07:49
+86bb0f74-1cfb-4965-862c-97dcc25a42ad,pest.republican,available,5.38,26,medium,low,4,spaceship,,,28/09/2026 18:26
 5dba4c5e-ecfc-4426-b18d-255dcd470e1f,accompany.republican,available,7.49,28.99,high,low,9,namesilo,,,24/09/2026 16:41
 8c852b05-547a-47c7-8031-b7b94073359a,cheek.republican,available,5.98,43.98,high,low,5,namecheap,,,24/09/2026 11:22
 7a2d2a49-2028-4fb1-9cda-7f035afde4fa,winy.republican,available,5.98,43.98,medium,low,4,namecheap,,,13/09/2026 12:25
@@ -575,6 +616,7 @@ dc0822fb-37ee-4e6d-b695-87b3972788e0,exploration.republican,available,7.49,28.99
 9a8d1cfe-6e4a-42a8-9cc2-04efb35acc87,brockhouse.republican,available,7.49,28.99,medium,low,10,namesilo,,,23/09/2026 10:18
 7bfa33e7-a3a6-49b9-b89c-0c8aaf1b5576,table.republican,available,5.99,,high,low,5,name.com,,,
 f45f5e0d-9506-480d-a039-6d60d70ab227,arctangent.republican,available,7.49,28.99,medium,low,10,namesilo,,,20/09/2026 01:30
+95d382f3-81bc-4330-b459-f0e95d06ccb7,processing.republican,available,5.57,26.97,high,low,10,dynadot,,,28/09/2026 15:08
 7f6abe76-37fe-4469-be06-59bec79a44d0,inquirer.republican,available,7.49,28.99,medium,low,8,namesilo,,,20/09/2026 14:22
 99d92b54-f946-4680-8de7-256ecde70375,gromyko.republican,available,7.49,28.99,high,low,7,namesilo,,,19/09/2026 04:28
 b5ec3231-fbb9-4e2b-8df2-715f6ca6b1c5,profile.republican,available,5.99,,high,low,7,name.com,,,
@@ -628,7 +670,7 @@ ab44134e-a357-49a1-a07a-8eaa30f1e816,andersen.republican,available,7.49,28.99,hi
 08c670d5-4cce-4e0c-9b6c-67a92bae2228,inform.republican,available,5.98,43.98,high,low,6,namecheap,,,16/09/2026 07:13
 8e605e3c-0486-4f2d-ae02-04ebe657c8a3,westcott.republican,available,5.99,,medium,low,8,name.com,,,
 b6cf4187-5ed7-44ae-a6b3-e9a80d8b7a44,peeved.republican,available,5.98,43.98,medium,low,6,namecheap,,,
-e946b069-c8dc-4c19-a468-ecb0e314ff7c,attachment.republican,available,5.99,28.99,high,low,10,namesilo,,,
+e946b069-c8dc-4c19-a468-ecb0e314ff7c,attachment.republican,available,5.38,26,high,low,10,spaceship,,,28/09/2026 18:30
 04917c2c-a372-4025-9311-86c3cc4d74ab,postpartum.republican,available,5.98,43.98,high,low,10,namecheap,,,09/09/2026 00:37
 9fb19d6f-97ea-4379-8f78-a2d4fdb866dc,chaff.republican,available,5.98,43.98,medium,low,5,namecheap,,,22/08/2026 13:50
 5b799643-66f4-4881-8e6d-08f5778c6292,olga.republican,available,7.49,28.99,medium,low,4,namesilo,,,27/09/2026 01:37
@@ -641,6 +683,7 @@ c1b97de5-af60-4840-9b83-d4ca5fb59726,nomadic.republican,available,5.98,43.98,hig
 40b5874b-2ff1-419e-b5eb-0e7c7eac3054,resilient.republican,available,5.98,43.98,high,low,9,namecheap,,,10/08/2026 21:47
 3dcad2c6-758e-4a1b-939b-dc416d3dce07,major.republican,available,7.49,28.99,high,low,5,namesilo,,,25/09/2026 16:14
 28d4b725-d059-4f22-999e-754e73d1a24b,disease.republican,available,5.99,28.99,high,low,7,namesilo,,,
+399cd04a-1f58-4715-a0f2-f59c2e19e9ae,strongest.republican,available,7.49,28.99,medium,low,9,namesilo,,,28/09/2026 12:52
 b3725dbc-3f65-40d7-9568-0e66b561f94a,cleric.republican,available,5.98,43.98,high,low,6,namecheap,,,14/08/2026 23:27
 f55ec2e4-9b17-403c-afcf-c9b0b95b9a3b,gran.republican,available,5.99,,high,low,4,name.com,,,
 deac6050-a551-48c8-a811-ce364a120a45,feline.republican,available,5.98,43.98,high,low,6,namecheap,,,18/08/2026 00:53
@@ -670,6 +713,7 @@ b144f0dd-1ac2-4848-bff8-7e48bdc2eafe,adviseable.republican,available,5.99,28.99,
 48c6206e-6b8c-4c96-9cc8-a11c084baefb,whitaker.republican,available,5.98,43.98,high,low,8,namecheap,,,27/09/2026 20:44
 ef5eb60b-bd4b-4044-85ad-90e72499d6a1,unclogged.republican,available,5.98,43.98,medium,low,9,namecheap,,,12/09/2026 05:28
 6b218a1e-964d-4c5d-8a47-01e942564175,joyfully.republican,available,5.98,43.98,high,low,8,namecheap,,,14/09/2026 21:32
+bfad0f25-111e-4d3b-bb2a-6ca91e87ba7a,stalking.republican,available,5.38,26,medium,low,8,spaceship,,,28/09/2026 20:33
 98ba52a3-eadd-4e37-ad40-b22360f8f155,concretely.republican,available,5.98,43.98,medium,low,10,namecheap,,,14/09/2026 08:12
 e454a172-c1e4-4cba-a4a6-a4a320e79fa3,inchoate.republican,available,5.98,43.98,medium,low,8,namecheap,,,22/08/2026 01:16
 1955e8c5-98d7-40a4-95c6-064085289d75,waxwork.republican,available,5.98,43.98,medium,low,7,namecheap,,,18/09/2026 19:16
@@ -678,7 +722,9 @@ ba507593-7f53-4918-8594-d892d0bf5205,rhythmic.republican,available,5.38,26,high,
 2ea06007-220e-47e8-bf5a-9a4649c70c62,backflow.republican,available,5.98,43.98,high,low,8,namecheap,,,21/09/2026 15:32
 fde9e533-124b-4d25-95ba-f67536832e1c,vulnerable.republican,available,5.98,43.98,high,low,10,namecheap,,,13/09/2026 07:24
 8e1ce203-956c-409f-a008-78aed268124a,disposable.republican,available,5.98,43.98,high,low,10,namecheap,,,14/08/2026 12:03
+6a201ff9-0ad2-4f07-8013-9ac37eeebc54,myra.republican,available,5.38,26,medium,low,4,spaceship,,,28/09/2026 22:02
 8d80f30a-70c5-48f1-a94e-750244dbaf36,oaken.republican,available,5.98,43.98,medium,low,5,namecheap,,,03/09/2026 23:26
+9b3c4bd7-0df9-4d1e-b0c8-d87b660723e2,sailors.republican,available,7.49,28.99,medium,low,7,namesilo,,,28/09/2026 13:06
 de19ab13-6116-4434-8645-472f2968f14e,buffalo.republican,premium,260,260,high,low,7,namecheap,,,18/09/2026 19:11
 83cda7db-da65-4be3-9ed2-20914108eb42,lucas.republican,available,9.99,46.99,high,medium,5,name.com,,,25/09/2026 06:28
 30cb1948-a384-4995-9651-444d1afbf519,coppery.republican,available,5.98,43.98,medium,low,7,namecheap,,,13/08/2026 00:34
@@ -695,12 +741,13 @@ d7bfedf8-56ce-4c81-8f4c-20eeaefcf26a,hammered.republican,available,5.98,43.98,me
 2b732e95-63b2-474e-a77f-0db1cb58cb54,loses.republican,available,7.49,28.99,medium,low,5,namesilo,,,27/09/2026 11:07
 4ae022a6-4531-47af-9166-57fd75524852,borrow.republican,available,5.99,28.99,high,low,6,namesilo,,,
 d3372715-5f89-4612-8744-f8b9e84ecf58,wall.republican,available,5.38,26,high,low,4,spaceship,,,28/09/2026 08:42
+57311496-88ee-47c9-bf81-c10682123bbc,donegal.republican,available,5.38,26,medium,low,7,spaceship,,,28/09/2026 21:57
 e0dd9385-ed0b-4d38-9fcf-b9baf257d134,sizes.republican,available,7.49,28.99,medium,low,5,namesilo,,,19/09/2026 02:18
 87bc2139-9e93-4b5e-adff-dcd49e0caa17,ventura.republican,premium,242,242,high,low,7,namesilo,,,25/09/2026 16:33
 1beed59b-8187-44cb-9aff-a56333e0d307,gorgeous.republican,available,7.49,28.99,high,low,8,namesilo,,,24/09/2026 22:48
 2b19827c-3ad3-4dbc-831a-b18d6966ee69,cocksucker.republican,available,5.98,43.98,medium,low,10,namecheap,,,08/08/2026 23:29
+b4c2051c-8520-43e9-9f00-947d765f8d3e,godfather.republican,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 14:19
 091fb5b9-d4fe-49c2-9c42-1f630ec5f49a,swim.republican,available,5.57,26.97,high,low,4,dynadot,,,28/09/2026 02:10
-ff4c4a46-aced-45c5-85a2-fc6f569162ea,france.republican,available,,,high,high,6,,,,
 93df8d59-60da-4686-a6e6-f622efdcf4fc,informative.republican,available,5.99,,high,low,11,name.com,,,
 d84405f3-e107-488b-a933-8760dcac83fc,picture.republican,available,7.49,28.99,high,low,7,namesilo,,,24/09/2026 16:54
 1a6c793e-a6ac-4c80-af9b-00c8b7c702e6,aiglet.republican,available,5.98,43.98,medium,low,6,namecheap,,,17/09/2026 18:23
@@ -717,15 +764,20 @@ c5e56060-25ff-42c4-9930-4e8639196ca1,bradford.republican,available,5.98,43.98,hi
 864e5202-35eb-4ac8-9bd6-5283c0d0e867,befuddled.republican,available,5.98,43.98,medium,low,9,namecheap,,,07/08/2026 11:41
 4eef7a2e-ab69-43ea-9ab6-063e72376969,behrens.republican,available,7.49,28.99,high,low,7,namesilo,,,23/09/2026 03:56
 67fdb04e-dd20-408b-953a-c26bee73db6d,uttered.republican,available,5.98,43.98,medium,low,7,namecheap,,,17/08/2026 18:44
+e43eeb96-28f8-4edb-ae31-4813a8b2021e,gun.republican,available,5.98,43.98,high,low,3,namecheap,,,28/09/2026 17:19
+db8bedf2-737f-46fc-9500-e80234270c0f,duration.republican,available,5.98,43.98,high,low,8,namecheap,,,28/09/2026 19:00
 bb44cfc0-5a65-430e-ac02-8e2310bfe228,birthplace.republican,available,5.98,43.98,high,low,10,namecheap,,,23/09/2026 21:18
 5d55e1e3-a4f1-4469-8126-df5b25f09be4,inexpensive.republican,available,5.99,,high,low,11,name.com,,,
 56b4cce3-56c6-4eef-bec4-cc2c3bba98af,riddled.republican,available,5.98,43.98,medium,low,7,namecheap,,,09/09/2026 17:19
 e01cefa6-e02e-483c-97b7-9afde277899c,youthful.republican,available,5.98,43.98,high,low,8,namecheap,,,13/09/2026 04:18
+f8a244da-437d-4aa1-88c6-0375aa5d8a01,cheng.republican,available,5.38,26,medium,low,5,spaceship,,,28/09/2026 11:35
+dbc585ce-6c94-499f-bb92-5be62b822be4,probe.republican,available,5.66,26.26,high,low,5,porkbun,,,28/09/2026 10:09
 d09d1c63-01c8-4c9d-93b4-7823951965b9,outfitted.republican,available,5.98,43.98,high,low,9,namecheap,,,04/09/2026 19:24
 9b197f12-ca71-4a9d-91de-647fee5335b9,butler.republican,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 01:17
 45146d3d-f36a-42c1-a67e-05b500da4d31,diagram.republican,available,7.49,28.99,high,low,7,namesilo,,,24/09/2026 22:08
 d237d06d-a724-4d6a-bdcc-4d071fc83ae8,spiral.republican,available,7.49,28.99,high,low,6,namesilo,,,23/09/2026 14:59
 c8c864ce-779c-48e1-aba4-f1babe6c5594,understandable.republican,available,5.99,,high,low,14,name.com,,,
+8e3f561b-94c6-4ae7-9def-d2f8673e7acb,severn.republican,available,5.98,43.98,medium,low,6,namecheap,,,28/09/2026 15:15
 96f737c8-70eb-404f-91f1-e06500660ac8,norseman.republican,available,5.98,43.98,medium,low,8,namecheap,,,03/09/2026 21:43
 fe8e0a90-d439-4502-83ff-8305312e3903,stooping.republican,available,5.98,43.98,medium,low,8,namecheap,,,21/08/2026 15:34
 4457f5f5-979d-40e2-a336-f54097178a74,lookout.republican,available,5.99,,high,low,7,name.com,,,
@@ -741,12 +793,14 @@ bc0d7056-95c2-4101-8668-c765753f89dd,depot.republican,available,5.98,43.98,high,
 2a95a858-23eb-4429-a7f4-9d6543b5c094,ethics.republican,available,5.98,43.98,high,low,6,namecheap,,,28/09/2026 05:38
 e0d5c61c-0f31-45d3-9809-4d1e60cbc470,laughable.republican,available,7.49,28.99,high,low,9,namesilo,,,23/09/2026 15:25
 45a2b7c0-e48b-405e-8db6-9ed858bd87b1,surefooted.republican,available,5.98,43.98,high,low,10,namecheap,,,18/08/2026 10:50
-f60051f8-fd16-4042-98a7-c17473e102fc,property.republican,available,5.99,,high,low,8,name.com,,,
+f60051f8-fd16-4042-98a7-c17473e102fc,property.republican,available,7.49,28.99,high,medium,8,namesilo,,,28/09/2026 23:13
 3a8f97cc-35a3-4783-843c-9131bf353cee,adenosine.republican,available,7.49,28.99,medium,low,9,namesilo,,,17/09/2026 07:32
 801691a2-566d-4c4e-ac0f-69c936891653,cuddle.republican,available,5.98,43.98,high,low,6,namecheap,,,24/09/2026 20:09
+991ba54e-5da1-4ac6-aaee-bb3d2bd705a6,kilometers.republican,available,5.57,26.97,medium,low,10,dynadot,,,28/09/2026 23:06
 5438908a-fb3d-4f38-8883-fdbf7fbc52bb,forty.republican,available,5.98,43.98,high,low,5,namecheap,,,
 81090f57-4c65-407f-a8ca-d783d5bbcc66,entry.republican,available,5.98,43.98,high,low,5,namecheap,,,08/09/2026 09:43
 1e4d2da0-3134-4bde-9949-5d0e6edf64d2,looked.republican,available,7.49,28.99,high,low,6,namesilo,,,18/09/2026 11:20
+3d4ace6c-30b3-40c2-9872-53899b9ec52f,dealers.republican,available,7.49,28.99,medium,low,7,namesilo,,,28/09/2026 09:08
 e42f10de-76be-4248-873f-fd998477a488,penny.republican,available,5.99,,high,low,5,name.com,,,
 72966d65-6982-453d-bc9c-26b802535fe6,assiduity.republican,available,7.49,28.99,medium,low,9,namesilo,,,20/09/2026 16:21
 c5acf474-3961-42fa-93ed-ca30d3a59eba,tape.republican,available,5.99,,high,low,4,name.com,,,
@@ -754,7 +808,9 @@ d15ea748-3dca-4036-991f-9ec4e75b81c0,vows.republican,available,5.38,26,medium,lo
 0cee188e-9da4-45f0-b850-be98702e0f14,ninepenny.republican,available,5.98,43.98,low,low,9,namecheap,,,03/09/2026 17:37
 f7b0a8b2-3cce-4588-a564-f7734ec6c159,laughing.republican,available,7.49,28.99,high,low,8,namesilo,,,25/09/2026 16:41
 d794cd95-27fc-493b-b295-61fad8749801,asterisk.republican,available,7.49,28.99,high,low,8,namesilo,,,20/09/2026 17:11
+a25084f7-2799-44da-8a91-e3ce7e9f9f08,gujarat.republican,available,5.38,26,medium,low,7,spaceship,,,28/09/2026 19:24
 17cd85d2-2317-4a16-89c3-fd6959213fae,fitfully.republican,available,5.98,43.98,medium,low,8,namecheap,,,14/09/2026 18:43
+d9744560-843d-4015-b3c8-59ef86c47563,maryland.republican,premium,414.2,414.2,high,low,8,spaceship,,,28/09/2026 19:17
 cbdac5ad-38ba-45c2-9d16-4d4f0d7112d1,uncordial.republican,available,5.98,43.98,medium,low,9,namecheap,,,12/09/2026 06:13
 4c870ed8-02cc-46e8-ab6b-cc45e6f6e476,charivari.republican,available,7.49,28.99,medium,low,9,namesilo,,,23/09/2026 06:08
 1f1d9af4-2934-4076-8120-d56a9c344b9e,unhindered.republican,available,5.98,43.98,medium,low,10,namecheap,,,12/09/2026 11:55
@@ -773,6 +829,7 @@ cea90afc-166e-4647-8552-b5dc4e3a2835,astronium.republican,available,5.98,43.98,m
 ab58a04c-068a-45cf-b70b-daff93350b26,essential.republican,available,5.98,43.98,high,low,9,namecheap,,,22/09/2026 00:42
 81301fc8-2096-49f2-9608-4be544281736,ontop.republican,available,7.49,28.99,medium,low,6,namesilo,,,16/09/2026 09:10
 0fa0f96c-7882-4b8b-a49c-9f93f7e92f1e,growing.republican,available,7.49,28.99,high,low,7,namesilo,,,19/09/2026 05:23
+70435aa7-1f47-43ad-a4e2-59fe072d9c38,respectable.republican,available,5.38,26,high,low,11,spaceship,,,28/09/2026 11:23
 63d2c27f-ee2b-43d1-9289-c7f40b2cca2e,monstrous.republican,available,5.98,43.98,medium,low,9,namecheap,,,07/08/2026 14:47
 a98e7bd4-b992-4413-bd49-312795ac7c19,boney.republican,available,5.98,43.98,medium,low,5,namecheap,,,10/08/2026 18:44
 6edbdfa0-e081-4e05-a79f-f25353e84e68,diatonic.republican,available,5.98,43.98,medium,low,8,namecheap,,,14/08/2026 06:21
@@ -794,6 +851,7 @@ c93cdcae-f4bf-4c46-99a6-7544cb0145c2,berkshire.republican,available,7.49,28.99,h
 49105193-626d-407c-a6db-2622ad8714a1,aloft.republican,available,5.98,43.98,medium,low,5,namecheap,,,13/09/2026 19:10
 165c9257-28fc-4027-99f2-13223ecedf9d,filiform.republican,available,5.98,43.98,medium,low,8,namecheap,,,18/08/2026 04:04
 6ce731a5-753b-474c-97d3-825ceb444936,arcsin.republican,available,7.49,28.99,medium,low,6,namesilo,,,20/09/2026 01:26
+285c98ee-9d18-4eea-be6e-bf521f0198ba,sacrificed.republican,available,7.49,28.99,low,low,10,namesilo,,,28/09/2026 17:16
 3e8c9881-3cfa-4054-bec6-58d8734f206a,reverend.republican,available,5.98,43.98,high,low,8,namecheap,,,09/09/2026 16:06
 4100803c-9c6b-4dfe-bfcb-ab8d88adfafd,affray.republican,available,7.49,28.99,medium,low,6,namesilo,,,17/09/2026 14:43
 6a440388-b37e-4c4c-9675-19d85d637cec,meals.republican,available,7.49,28.99,high,low,5,namesilo,,,18/09/2026 16:02
@@ -808,10 +866,11 @@ e09baaa7-ffd1-42c0-82d6-d01ed10432e3,blowhard.republican,available,5.98,43.98,me
 d6ecfee2-ffec-485f-97ae-c33ed346514e,skittish.republican,available,5.98,43.98,medium,low,8,namecheap,,,10/09/2026 09:48
 26c260a7-bd35-4a44-a2a7-2e03b4a9e263,stagey.republican,available,5.98,43.98,medium,low,6,namecheap,,,10/09/2026 18:06
 65098014-c699-4ace-888e-48f73a058555,allure.republican,available,9.99,46.99,high,low,6,name.com,,,18/09/2026 12:11
+31c102d4-2867-4913-89d3-e3b9f996496c,tab.republican,available,5.98,43.98,high,low,3,namecheap,,,28/09/2026 10:59
 46f8605a-9862-46f3-ab0d-1077b79e0465,isoclinic.republican,available,5.98,43.98,medium,low,9,namecheap,,,22/08/2026 11:02
 c51422b2-ab7f-46d1-93aa-968bde6328d0,edental.republican,available,5.98,43.98,medium,low,7,namecheap,,,08/09/2026 15:42
 5c20b86f-5e78-44a3-90c5-4d7d8a67fbb1,boneless.republican,available,5.98,43.98,medium,low,8,namecheap,,,10/08/2026 18:38
-6bc9336b-5639-455d-bef2-548900cb86a1,einstein.republican,available,5.99,28.99,high,low,8,namesilo,,,
+6bc9336b-5639-455d-bef2-548900cb86a1,einstein.republican,available,5.57,26.97,high,low,8,dynadot,,,28/09/2026 20:04
 e89bfffb-feda-4b2a-82fa-e1bd8ba3a77e,screaming.republican,available,5.98,43.98,high,low,9,namecheap,,,09/09/2026 23:52
 fc78269a-50cf-4d55-953c-78f8f08f111b,ashes.republican,available,7.49,28.99,medium,low,5,namesilo,,,27/09/2026 09:10
 dae5dff9-8447-457a-b53a-43db6b93dda0,baptized.republican,available,5.98,43.98,high,low,8,namecheap,,,08/08/2026 14:55
@@ -840,7 +899,10 @@ c0dc0ff5-4007-4cfb-b253-f17e4a3e6d81,squad.republican,available,7.49,28.99,high,
 ae7dd1d8-b752-4dd7-87fb-3a9e1ba0970f,comer.republican,available,7.49,28.99,medium,low,5,namesilo,,,20/09/2026 09:17
 41e30156-d65f-48d8-8243-76957acd61b5,steal.republican,available,5.99,,high,low,5,name.com,,,
 74badd15-f07e-421a-ab1f-64aa89c15943,dumbstruck.republican,available,5.98,43.98,medium,low,10,namecheap,,,14/08/2026 21:06
+132154ab-9304-468c-a488-0a336edf534d,conquered.republican,available,5.98,43.98,medium,low,9,namecheap,,,28/09/2026 23:05
+fc5f8893-db60-4b50-a4c8-14deff9025fc,irc.republican,available,5.38,26,high,low,3,spaceship,,,28/09/2026 20:54
 c676ac44-4cdf-4d51-ad76-be05b4449560,caper.republican,available,7.49,28.99,high,low,5,namesilo,,,22/09/2026 06:32
+0da2b174-df1b-4d02-bc2d-5de02488edf9,shaving.republican,available,5.38,26,medium,low,7,spaceship,,,28/09/2026 20:07
 5d69a20f-2ba2-48a6-9da2-83c6ed0691fa,ignorant.republican,available,5.98,43.98,high,low,8,namecheap,,,21/08/2026 18:27
 7497e27f-4403-4267-8fe3-037af0b05d93,cuddly.republican,available,5.98,43.98,high,low,6,namecheap,,,13/08/2026 10:11
 93b4890d-4540-49b0-be1b-12cb5e077545,switch.republican,available,,,high,medium,6,,,,
@@ -855,6 +917,7 @@ d8464ad9-e8d8-4920-b2a2-56c05978a7ca,armoire.republican,available,5.98,43.98,med
 6ce535f8-f915-4d9f-93df-155887781934,cuts.republican,available,7.49,28.99,high,low,4,namesilo,,,19/09/2026 00:14
 1f183a5a-d118-429b-a41e-ecbdba238464,inhabit.republican,available,5.98,43.98,high,low,7,namecheap,,,24/08/2026 07:51
 6e4cb06b-f689-4d7e-ad39-cf1dd991f6ba,accrual.republican,available,5.98,43.98,medium,low,7,namecheap,,,16/09/2026 23:14
+5e44c7aa-bd4c-44cc-89d3-02477be77c0e,unavailable.republican,available,7.49,28.99,medium,low,11,namesilo,,,29/09/2026 03:22
 f598423e-2e85-4ad3-8d79-abe6812b9ef5,brightly.republican,available,5.98,43.98,high,low,8,namecheap,,,11/08/2026 04:04
 fe7e60d9-541c-48b8-aba8-d1d4c1a79c30,masters.republican,available,5.99,,high,low,7,name.com,,,
 7241ae06-b4b7-4208-8e49-d7486130a405,archivist.republican,available,7.49,28.99,high,low,9,namesilo,,,20/09/2026 02:21
@@ -870,7 +933,7 @@ c9256b94-eab2-4c47-9de5-5cecd7e9ef20,drapes.republican,available,7.49,28.99,high
 e11db357-2157-460c-848c-78494320285b,homoerotic.republican,available,5.98,43.98,medium,low,10,namecheap,,,21/08/2026 12:51
 bed6b9d2-a0e6-4b36-b843-16f463e49fda,curt.republican,available,5.98,43.98,medium,low,4,namecheap,,,11/08/2026 07:05
 baa0d4cb-9b81-482e-87db-25634792dd7d,kathleen.republican,available,7.49,28.99,high,low,8,namesilo,,,25/09/2026 14:34
-272cda30-994d-40a0-8869-d98b9113d67b,totaled.republican,available,5.99,,high,low,7,name.com,,,
+272cda30-994d-40a0-8869-d98b9113d67b,totaled.republican,available,5.38,26,medium,low,7,spaceship,,,28/09/2026 09:24
 6c4ab5d8-7292-43d4-a9db-99e207713058,officials.republican,available,7.49,28.99,medium,low,9,namesilo,,,17/09/2026 12:28
 61534450-0812-4b12-8d16-ce6882d56f6a,batty.republican,available,5.98,43.98,medium,low,5,namecheap,,,06/08/2026 20:35
 d3e804e8-4ff6-405d-82b1-06dcab41ded7,ravenous.republican,available,5.98,43.98,medium,low,8,namecheap,,,15/08/2026 06:13
@@ -904,13 +967,15 @@ ba74068e-aa6b-4186-a8cd-5660ff753373,arbitrator.republican,available,7.49,28.99,
 610a02d7-f769-45ea-b522-c95257d0638d,limp.republican,available,5.98,43.98,medium,low,4,namecheap,,,23/08/2026 12:39
 d5278eff-bc52-423e-b802-95213f814a60,pettifog.republican,available,7.49,28.99,medium,low,8,namesilo,,,23/09/2026 13:20
 7e29f753-d925-4f93-8dcc-79af14069127,tomboys.republican,available,7.49,28.99,low,low,7,namesilo,,,20/09/2026 23:15
+b35b7905-4891-462e-803b-8dbc6daaf513,hoboken.republican,available,7.49,28.99,medium,low,7,namesilo,,,28/09/2026 12:26
+150a6247-bb0b-42cf-a9ca-c453f6c9a077,admitting.republican,available,5.38,26,medium,low,9,spaceship,,,28/09/2026 20:58
 25633e26-4074-4bca-a4ed-a315a9c5d0dc,chen.republican,available,7.49,28.99,high,low,4,namesilo,,,25/09/2026 04:12
 f733b398-21ba-4839-98bf-e3625e705ff9,christi.republican,available,5.98,43.98,medium,low,7,namecheap,,,25/09/2026 21:26
 2d8742d4-4240-4217-8674-64846f4afa6a,fuzzy.republican,available,5.98,43.98,high,low,5,namecheap,,,22/09/2026 23:28
 8dd2cff7-6fc6-41a1-990e-78740a5f2b0c,fonts.republican,available,7.49,28.99,medium,low,5,namesilo,,,20/09/2026 22:56
 18d628ca-d371-4375-a2ad-5fdd00d5c187,dank.republican,available,5.98,43.98,high,low,4,namecheap,,,12/08/2026 09:24
 86871bed-984b-4af8-ab27-85c6165afa8c,adnate.republican,available,5.98,43.98,medium,low,6,namecheap,,,
-d1894ba5-e95e-47ad-ac44-a81ad9c30b0e,savings.republican,available,7.49,28.99,high,low,7,namesilo,,,26/09/2026 03:10
+d1894ba5-e95e-47ad-ac44-a81ad9c30b0e,savings.republican,available,5.38,26,high,low,7,spaceship,,,28/09/2026 13:08
 18199478-bad1-4f61-ae78-30ffac52fbf7,burst.republican,available,5.98,43.98,high,low,5,namecheap,,,24/09/2026 10:35
 a5edd56d-0cc5-4595-b41b-406bc03a4837,nervous.republican,available,7.49,28.99,medium,low,7,namesilo,,,21/09/2026 22:02
 1c485599-83e8-4c03-b800-42a1103f7b62,laudable.republican,available,5.98,43.98,medium,low,8,namecheap,,,06/08/2026 07:01
@@ -930,72 +995,7 @@ f6da2baa-530d-4603-a91a-5c0dc6e8a94b,want.republican,available,5.99,,high,low,4,
 45910b4d-ebfc-43b1-aebd-45e1620f64f0,designer.republican,available,5.98,43.98,high,low,8,namecheap,,,20/09/2026 02:12
 43e434c4-b485-4743-9eee-270b37b27b70,deeds.republican,available,7.49,28.99,high,low,5,namesilo,,,27/09/2026 12:56
 59154e73-e839-48c5-86bc-5d3c5c2866c5,hahn.republican,available,7.49,28.99,high,low,4,namesilo,,,27/09/2026 04:20
+724439c1-bff2-4155-9a01-071040407685,tags.republican,available,7.49,28.99,low,low,4,namesilo,,,28/09/2026 23:26
 cc6cc043-e5ab-4cd7-9346-4e54688a259d,flightless.republican,available,5.98,43.98,medium,low,10,namecheap,,,18/08/2026 08:09
 a7978ba0-1cc5-4bae-998f-ceb79f5b5412,roman.republican,available,5.98,43.98,high,low,5,namecheap,,,27/09/2026 02:43
 db361482-fcdd-46e7-aa61-e67f461bd124,pond.republican,available,7.49,28.99,high,low,4,namesilo,,,27/09/2026 15:18
-ddcbd614-4944-42a6-8db0-60f20f2f3b00,lighted.republican,available,5.98,43.98,high,low,7,namecheap,,,21/08/2026 20:09
-5b79f5a6-f487-4b40-a5d7-0779c154a6ba,overboard.republican,available,5.98,43.98,high,low,9,namecheap,,,15/09/2026 18:25
-eaaadbbb-a85b-4a9e-8432-dcd65131f738,linux.republican,available,7.49,28.99,high,medium,5,namesilo,,,25/09/2026 23:27
-e96f1560-b59d-408e-8900-fe0641ad6b8a,glissando.republican,available,5.98,43.98,medium,low,9,namecheap,,,14/09/2026 21:37
-a4cd0063-6c03-44aa-9f2b-e1abc17516be,blacksnake.republican,available,7.49,28.99,medium,low,10,namesilo,,,24/09/2026 01:28
-947249c3-eace-4089-92cf-e264cf8d58dc,faa.republican,available,7.49,28.99,high,low,3,namesilo,,,25/09/2026 05:50
-562c6136-7572-4ccc-b7c6-c2f14ef29128,impelling.republican,available,5.98,43.98,medium,low,9,namecheap,,,21/08/2026 22:04
-3b4a434b-dbcb-47e6-b9c6-0039702372ae,disquiet.republican,available,7.49,28.99,medium,low,8,namesilo,,,24/09/2026 22:51
-e4399e0e-c2b3-48bb-8513-c5f60cd26f20,rang.republican,available,5.99,,medium,low,4,name.com,,,
-a226e192-79f8-479d-801d-76d0d034d03a,handily.republican,available,5.98,43.98,medium,low,7,namecheap,,,14/09/2026 08:35
-ea548aae-0155-4d62-a1d4-834251a86104,uut.republican,available,7.49,28.99,medium,low,3,namesilo,,,20/09/2026 22:17
-2274fc19-5974-4ecb-9e53-850655517469,arioso.republican,available,7.49,28.99,medium,low,6,namesilo,,,20/09/2026 05:35
-4a534ff0-1e88-4bed-ba4b-fc73cca5fa71,macdonald.republican,available,5.98,43.98,high,low,9,namecheap,,,25/09/2026 15:47
-b3347ca3-1b87-4126-a747-7b58735bce17,senile.republican,available,5.98,43.98,medium,low,6,namecheap,,,14/08/2026 14:36
-4ee80543-e794-43d7-8dd4-ae687b5d7ab7,thee.republican,available,5.99,,medium,low,4,name.com,,,
-17f01c17-d942-46fa-83f5-707f8f98edf2,visions.republican,available,5.38,26,medium,low,7,spaceship,,,27/09/2026 23:41
-4be96901-55db-4616-b391-658c2bc284eb,organs.republican,available,5.99,,high,low,6,name.com,,,
-d2a91764-c124-44f1-b70e-a122886e8a9c,baldric.republican,available,7.49,28.99,medium,low,7,namesilo,,,21/09/2026 21:45
-278dca92-4618-474a-9fa0-3046eb2cc864,stony.republican,available,5.98,43.98,medium,low,5,namecheap,,,10/08/2026 21:45
-76a7cead-a173-4577-8b43-1ab8ba337869,stinky.republican,available,5.98,43.98,high,low,6,namecheap,,,13/08/2026 05:18
-684d8a23-bdb7-4339-9cb5-0b6986a28480,expose.republican,available,5.99,28.99,high,low,6,namesilo,,,
-d5e56c70-888f-4b05-8b3d-1b758b7fae08,bihari.republican,available,7.49,28.99,medium,low,6,namesilo,,,23/09/2026 15:31
-cda8c329-a15a-47c5-91a5-bfd165846ccd,providing.republican,available,7.49,28.99,high,low,9,namesilo,,,28/09/2026 07:19
-8cefb92f-8bc7-406b-965c-401a1826a4b4,permanently.republican,available,7.49,28.99,medium,low,11,namesilo,,,28/09/2026 07:19
-1de6249d-8496-43ee-b25f-7b3adc86e1d9,eliza.republican,available,5.99,28.99,high,low,5,namesilo,,,
-25c46d0d-389a-489a-99a9-740c3c6b3690,katari.republican,available,5.98,43.98,medium,low,6,namecheap,,,22/08/2026 15:12
-789f5268-9035-42dc-84ac-88aa3702567a,pony.republican,available,5.99,,high,low,4,name.com,,,
-d35d0260-0a43-41ac-b76b-be1ec96bf992,applied.republican,available,5.98,43.98,high,low,7,namecheap,,,06/08/2026 07:11
-1e351ad1-3f86-4687-b6e8-bcc029deb556,soigne.republican,available,5.98,43.98,medium,low,6,namecheap,,,10/09/2026 13:28
-50bedabc-1936-4b69-bedb-59d65c9085e5,alhaytham.republican,available,7.49,28.99,medium,low,10,namesilo,,,18/09/2026 00:48
-ec084540-4beb-418d-928b-f686933163f0,continent.republican,available,5.98,43.98,high,low,9,namecheap,,,11/08/2026 23:26
-ff82a413-2355-4012-8863-94d38dba3da2,poet.republican,available,7.49,28.99,high,low,4,namesilo,,,27/09/2026 05:01
-7883301d-1793-43e1-a6cf-11f5aadb944a,saute.republican,available,5.98,43.98,high,low,5,namecheap,,,09/09/2026 22:00
-68a367e3-e711-4b60-8cc9-8a8e3939b3fb,ferine.republican,available,5.98,43.98,medium,low,6,namecheap,,,18/08/2026 01:16
-bb564cfc-b5f9-49be-a8e2-c05ab88097be,jain.republican,available,5.98,43.98,high,low,4,namecheap,,,22/08/2026 12:04
-e49aeb2b-b72d-4d87-add5-7489dad35b2e,ramble.republican,available,5.98,43.98,high,low,6,namecheap,,,10/09/2026 22:10
-6a6322dc-4c51-4d1d-8e15-4d93b894dde5,tuna.republican,available,7.49,28.99,high,low,4,namesilo,,,19/09/2026 07:27
-622b8c66-e2d1-4ceb-802c-8abd08eabf40,touches.republican,available,7.49,28.99,medium,low,7,namesilo,,,28/09/2026 04:39
-e6d9d20a-d941-497e-bc55-2dc65be27117,quaint.republican,available,5.98,43.98,high,low,6,namecheap,,,04/09/2026 01:55
-5b201169-6f25-46f3-b96b-92bfa1ecfdb8,bayonne.republican,available,5.98,43.98,medium,low,7,namecheap,,,22/09/2026 18:07
-172aa66e-9047-4940-bff2-a76448b96ab8,sanious.republican,available,5.98,43.98,medium,low,7,namecheap,,,21/08/2026 17:49
-d36a493d-e490-43d7-94aa-d8cf9d4537d3,suddenly.republican,available,9.99,46.99,medium,low,8,name.com,,,13/08/2026 19:19
-71450e3f-8a93-4645-94c7-9240d95b026b,infirm.republican,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 20:32
-27b5d80b-ded5-4281-bf59-654dcafdc5dd,merciful.republican,available,5.98,43.98,high,low,8,namecheap,,,24/08/2026 20:34
-c6764148-275a-4839-8e61-b3308566ac6f,knowing.republican,available,7.49,28.99,high,low,7,namesilo,,,25/09/2026 10:04
-5076450f-8783-424d-9de1-4d5c7e29044a,inscribed.republican,available,5.98,43.98,medium,low,9,namecheap,,,17/08/2026 08:24
-1bee183f-f785-4847-abc0-404085331885,maturate.republican,available,5.98,43.98,medium,low,8,namecheap,,,24/08/2026 17:31
-58c8713d-3842-40f6-9605-d5a26aee4d59,nsa.republican,available,5.98,43.98,high,low,3,namecheap,,,27/09/2026 04:50
-d59ea42d-2e2e-4696-9a24-6b9f1db0aecc,landlord.republican,available,5.38,26,high,low,8,spaceship,,,28/09/2026 02:14
-a92179af-d5e0-49da-9885-82c618136aae,dutch.republican,available,5.98,43.98,high,low,5,namecheap,,,24/09/2026 12:34
-c603494e-a2a6-4df8-b41b-8a5efa54d0ce,helical.republican,available,5.98,43.98,medium,low,7,namecheap,,,12/08/2026 16:11
-43c9047e-1673-4e95-a10d-524c6db8e2fd,deception.republican,available,5.98,43.98,high,low,9,namecheap,,,24/09/2026 17:22
-34e53459-e129-4a70-a806-3fc51f860324,bbc.republican,available,,,high,medium,3,,,,
-43bfb4f1-4e6a-4552-bbad-71b305bc77c3,bolshie.republican,available,5.98,43.98,medium,low,7,namecheap,,,10/08/2026 17:55
-17cc9e6e-5715-41c2-9fc6-541bddd7063b,leash.republican,available,5.98,43.98,high,low,5,namecheap,,,
-65b5ce38-b367-4357-8d08-b8e40cec7625,ibuprofen.republican,available,5.98,43.98,high,low,9,namecheap,,,17/09/2026 11:14
-8010e99a-3f3a-4517-986c-0b5a4edcba4a,revocable.republican,available,5.98,43.98,medium,low,9,namecheap,,,09/09/2026 16:21
-5a88c648-2112-49f3-b46c-7a2394f9e9c9,serenity.republican,available,5.98,43.98,high,low,8,namecheap,,,20/09/2026 19:39
-c16fa39c-7b33-4fb5-b7ee-43d8b51ee084,depleted.republican,available,5.98,43.98,medium,low,8,namecheap,,,14/08/2026 02:23
-97dd2330-b546-4634-b1d1-defcb3cf7f19,lifeless.republican,available,5.98,43.98,medium,low,8,namecheap,,,17/08/2026 15:52
-2794acf8-f0a7-4356-a068-c53b48d81481,abdul.republican,available,7.49,28.99,high,low,5,namesilo,,,27/09/2026 07:21
-76c2b10a-b83d-4c42-a125-a6651b26dab5,untethered.republican,available,5.98,43.98,medium,low,10,namecheap,,,12/09/2026 21:16
-844dfcd4-3a7b-4e61-b0cf-4fd98ff92038,producer.republican,available,7.49,28.99,high,low,8,namesilo,,,25/09/2026 10:38
-ee20b25a-e6fa-45d3-910b-eab6681b1177,selenium.republican,available,7.49,28.99,medium,low,8,namesilo,,,20/09/2026 22:53
-8e382b4b-dd38-46da-86a7-e38aa8b255a2,version.republican,available,5.99,,high,low,7,name.com,,,
-39501645-98fb-485b-a9cc-8180e3e0c20e,beaner.republican,available,5.98,43.98,medium,low,6,namecheap,,,22/09/2026 20:26
